@@ -2,19 +2,67 @@
 layout: default
 ---
 
-<div class="home">
+<div class="main">
+  <div class="col_2">
+      <div class="left">
+        <h1> Welcome to UNIS-UN </h1>
+        <p> Welcome to the new and updated UNIS-UN Website! In the near future our website will be fully functional. Until then, we hope that our website will meet your needs and satisfy your curiosity. We would love to hear your suggestions and opinions about our new outlay; you can send us input via the contact form! </p>
 
-  <h1>Posts</h1>
+        Our goal as an organization is to provide an educationally and intellectually enriching experience for our peers from around the world while promoting globalism and cross-cultural exchange.
 
-  <ul class="posts">
-    {% for post in site.posts %}
+      </div>
+
+      <div class="right cur_conf">
+        <h1>Upcoming Events</h1>
+        <img class="logo" id="conf_logo" src="/img/2015/conf-logo.png">
+        <h2> UNIS-UN 2015 </h2>
+        <p> Sustainability: Balancing People, Planet, & Profit</p>
+      </div>
+      <div style="clear:both;"></div>
+  </div>
+  <hr>
+  <div class="speakers">
+    <h1> Speakers </h1>
+    <ul>
       <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <div class="speaker">
+          <img class="head" src="/img/2015/speakers/sample.jpg">
+          <h2> Speaker One </h2>
+        </div>
       </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+      <li>
+        <div class="speaker">
+          <img class="head" src="/img/2015/speakers/sample.jpg">
+          <h2> Speaker Name </h2>
+        </div>
+      </li>
+      <li>
+        <div class="speaker">
+          <img class="head" src="/img/2015/speakers/sample.jpg">
+          <h2> Name Speaker </h2>
+        </div>
+      </li>
+      <li>
+        <div class="speaker">
+          <img class="head" src="/img/2015/speakers/sample.jpg">
+          <h2> Name o Speak </h2>
+        </div>
+      </li>
+      <li>
+        <div class="speaker">
+          <img class="head" src="/img/2015/speakers/sample.jpg">
+          <h2> Say my Name </h2>
+        </div>
+      </li>
+      <li>
+        <div class="speaker">
+          <img class="head" src="/img/2015/speakers/sample.jpg">
+          <h2> Name of Names </h2>
+        </div>
+      </li>
+    </ul>
+  </div>
 </div>
+
+
+
