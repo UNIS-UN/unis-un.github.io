@@ -27,9 +27,9 @@ layout: default
   <hr>
 
   <div class="speakers">
-    <h1> 2015 Speakers </h1>
+    <h1> Speakers {{ site.conf_year}} </h1>
     <ul>
-      {% for speaker_hash in site.data.2015.speakers %}
+      {% for speaker_hash in site.data.[site.conf_year].speakers %}
         {% assign speaker = speaker_hash[1] %}
         <li>
           <div class="speaker">

@@ -1,11 +1,15 @@
 # Site settings
 title: UNIS-UN
-email: contact@unis-un.com
+email: contact@unis-un.org
 description: "unis-un does stuff"
-baseurl: ""
-url: "http://yourdomain.com"
+
+#Upcoming Confrence year (Remeber to use quotes)
+conf_year: "2015"
+
+#Social media
 twitter_username: unis-un
 facebook_username: unis-un
+
 # Build settings
 markdown: kramdown
 permalink: pretty

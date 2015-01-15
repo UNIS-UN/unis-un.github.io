@@ -3,17 +3,22 @@
     <nav>
       <ul>
         <li>
-          <a href="/"> About </a> 
+          <a href="/"> About </a>
+          <ul>
+            <li> <a href="/history"> History </a> </li>
+            <li> <a href="/organization"> Organization </a> </li>
+          </ul> 
         </li>
         <li>
           <a href="/"> Conferences </a>
           <ul>
-            <li>
-              <a href="#">2015 - Sustainability </a>
-            </li>
-            <li>
-              <a href="#">2014 - Globalization</a>
-            </li>
+            {% for page in site.pages %}
+              {% if page.conf %}
+              <li>
+                <a href="/confs/{{ page.year }}"> {{ page.title }} </a>
+              </li>
+              {% endif %}
+            {% endfor %}
           </ul>
         </li>
         <li>
@@ -22,7 +27,7 @@
       </ul>
     </nav>
     <div id="logo">
-      <img src="/img/generic-logo.png" id="logo_img">
+      <a href="/"><img src="/img/generic-logo.png" id="logo_img"> </a>
       <div>
         <span id="main_title"> UNIS-UN </span>
         <br>

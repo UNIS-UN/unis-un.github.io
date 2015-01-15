@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-color: #1A9ED5;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   color: #555;
@@ -113,6 +114,19 @@ nav ul ul ul {
   font-size: 20px;
 }
 
+.page-content{
+  background-color: #fff;
+  position: relative;
+  z-index: -1;
+  padding: 20px;
+}
+.wrap {
+  margin: 0 auto;
+}
+.content{
+  max-width: 1200px;
+}
+
 .head {
   width:170px;
   border-radius: 300px
@@ -155,12 +169,6 @@ nav ul ul ul {
 }
 .cur_conf p{
   margin: 0;
-}
-
-.main {
-  max-width: 1200px;
-  margin: 0 auto;
-  margin-top: 20px;
 }
 
 .col_2 div {
