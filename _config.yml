@@ -1,11 +1,11 @@
 # Site settings
-title: UNIS UN
+title: UNIS-UN
 email: contact@unis-un.com
 description: "unis-un does stuff"
 baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: unis-un
-
+facebook_username: unis-un
 # Build settings
 markdown: kramdown
 permalink: pretty

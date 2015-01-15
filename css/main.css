@@ -17,10 +17,11 @@ header{
   box-shadow: 0px 2px 10px 5px rgba(0, 0, 0, 0.3);
 }
 
- .header {
+.header {
   background: url(/img/generic-bg.png);
   background-size:100%;
  }
+
 nav {
   padding: 20px;
   font-size: 16px;
@@ -32,9 +33,67 @@ nav a{
   color: white;
   text-decoration: none;
 }
-nav a:hover{
-  text-decoration: underline;
+
+nav ul ul {
+  display: none;
 }
+
+nav ul li:hover > ul {
+  display: block;
+}
+
+nav ul {
+  box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
+  padding: 0;
+  list-style: none;
+  position: relative;
+  display: inline-table;
+}
+
+nav ul:after {
+  content: ""; clear: both; display: block;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li:hover {
+  background: rgba(52, 152, 219,0.5);
+}
+
+nav ul li a {
+  display: block; 
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+nav ul ul {
+  background: rgba(52, 152, 219,0.5); 
+  border-radius: 0px; 
+  padding: 0;
+  position: absolute; 
+  top: 100%;
+}
+nav ul ul li {
+  float: none; 
+  position: relative;
+}
+
+nav ul ul li a {
+  padding: 10px 40px;
+} 
+
+nav ul ul li a:hover {
+  background: rgba(41, 128, 185, 0.5);
+}
+
+nav ul ul ul {
+  position: absolute; 
+  left: 100%; 
+  top:0;
+}
+
  #logo {
   text-align: center;
   width: 300px;
