@@ -8,10 +8,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: #333;
 }
-footer {
-  background-color: #282822;
-  color: white;
-}
 
 header{
   background-color: #3498db;
@@ -59,7 +55,7 @@ nav a:hover{
 }
 
 .head {
-  width:150px;
+  width:170px;
   border-radius: 300px
 }
 .speaker {
@@ -118,4 +114,39 @@ nav a:hover{
 }
 .col_2 .right{
   float: left;
+}
+
+/* ======================
+    Footer
+  ======================= */
+footer {
+  background-color: #1A9ED5;
+  max-width: 100%;
+  overflow: hidden;
+  color: #B3DAE0;
+}
+
+footer a {
+  color: #B3DAE0;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: white;
+}
+
+
+footer ul {
+  list-style: none;
+}
+footer .wrap {
+  display: table;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.column { 
+  display: table-cell;
+  marign-bottom: 15px;
+  padding: 0 5px; 
+  width: 33%;
 }
