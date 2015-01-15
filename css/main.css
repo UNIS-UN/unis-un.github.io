@@ -5,7 +5,10 @@ body {
   color: #555;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
+  color: #2980b9;
+}
+h2, h3, h4, h5, h6 {
   color: #333;
 }
 
@@ -116,10 +119,18 @@ nav a:hover{
   float: left;
 }
 
+hr {
+  border: solid #ddd;
+  border-width: 1px 0 0;
+  clear: both;
+  margin: 10px 0 30px;
+  height: 0;
+}
 /* ======================
     Footer
   ======================= */
 footer {
+  margin-top: 20px;
   background-color: #1A9ED5;
   max-width: 100%;
   overflow: hidden;
