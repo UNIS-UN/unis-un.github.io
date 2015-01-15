@@ -16,7 +16,8 @@ footer {
 header{
   background-color: #3498db;
   box-shadow: 0px 2px 10px 5px rgba(0, 0, 0, 0.3);
- }
+}
+
  .header {
   background: url(/img/generic-bg.png);
   background-size:100%;
