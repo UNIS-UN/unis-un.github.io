@@ -1,14 +1,27 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="main">
 
-  <header class="post-header">
     <h1>{{ page.title }}</h1>
-  </header>
+  
 
   <article class="post-content">
   {{ content }}
   </article>
 
+<div class="speakers">
+    <h1> Speakers </h1>
+    <ul>
+      {% for speaker_hash in site.data.[page.year].speakers %}
+        {% assign speaker = speaker_hash[1] %}
+        <li>
+          <div class="speaker">
+            <img class="head" src="/img/2015/speakers/sample.jpg">
+            <h2> {{ speaker.name}} </h2>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>

@@ -80,9 +80,6 @@ nav ul ul li {
   position: relative;
 }
 
-nav ul ul li a {
-  padding: 10px 40px;
-} 
 
 nav ul ul li a:hover {
   background: rgba(41, 128, 185, 0.5);
