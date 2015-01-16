@@ -6,10 +6,11 @@ layout: default
 
 <h1>{{ page.title }}</h1>
   
+<div>
 <h2> About </h2>
-{% for p in conf.dest.long %}
-	<p> {{ p }} </p>
-{% endfor %}
+<img class="logo logo_in_page" src="/img/{{ conf.info.year }}/conf-logo.png">
+{{ content }}
+</div>
 
 <div class="speakers">
     <h1> Speakers </h1>
@@ -25,7 +26,3 @@ layout: default
       {% endfor %}
     </ul>
  </div>
-
-<article class="post-content">
-	{{ content }}
-</article>
