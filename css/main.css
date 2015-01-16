@@ -48,6 +48,9 @@ nav a{
   color: white;
   text-decoration: none;
 }
+nav a:hover{
+  text-decoration: none;
+}
 
 nav ul ul {
   display: none;
