@@ -12,17 +12,22 @@
         <li>
           <a href="/"> Conferences </a>
           <ul>
-            {% for page in site.pages %}
+            {% for page in site.pages reversed limit:4 %}
               {% if page.conf %}
               <li>
                 <a href="/confs/{{ page.year }}"> {{ page.title_s }} </a>
               </li>
               {% endif %}
             {% endfor %}
+            <li> <a href="/confs/">More... </a></li>
           </ul>
         </li>
         <li>
-         <a href="/"> Info </a>
+         <a href="/"> Information </a>
+         <ul>
+            <li> <a href="/history"> For Visiting Schools </a> </li>
+            <li> <a href="/organization"> For UNIS Hosts </a> </li>
+          </ul> 
         </li>
       </ul>
     </nav>

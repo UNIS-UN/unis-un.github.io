@@ -1,0 +1,13 @@
+---
+layout: page
+title: "Conferences"
+---
+
+{% for conf_hash in site.data reversed %}
+	{% assign conf = conf_hash[1] %}
+ 	<h2> {{ conf.info.title }} </h2>
+ 	{% for p in conf.dest.long %}
+ 		<p> {{ p }} </p>
+ 	{% endfor %}
+ 	<span class="small"><a href="/confs/{{ conf.info.year }} "> read more... </a></span>
+{% endfor %}
