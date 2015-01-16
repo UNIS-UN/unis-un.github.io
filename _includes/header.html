@@ -15,7 +15,7 @@
           <ul>
             {% for year in site.data.confs limit:3 %}
               <li>
-                <a href="/confs/{{ year }}"> {{ site.data.[year].info.title_s }} </a>
+                <a href="/confs/{{ year }}"> {{ site.data.[year].info.year }} {{ site.data.[year].info.title_s }} </a>
               </li>
             {% endfor %}
             <li> <a href="/confs/">More... </a></li>
@@ -35,7 +35,7 @@
       <div>
         <span id="main_title"> UNIS-UN </span>
         <br>
-        <span id="main_sub"> 2015 Sustainability </span>
+        <span id="main_sub"> {{ site.conf_year }} {{ site.data.[site.conf_year].info.title_s }} </span>
       <div>
     </div>
   <div> 

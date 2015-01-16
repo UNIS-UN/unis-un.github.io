@@ -17,9 +17,11 @@ layout: default
 
     <div class="right cur_conf">
       <h1>Upcoming Events</h1>
-      <img class="logo" id="conf_logo" src="/img/2015/conf-logo.png">
-      <h2> UNIS-UN 2015 </h2>
-      <p> Sustainability: Balancing People, Planet, & Profit</p>
+      <a href="/confs/{{ site.conf_year }}"><img class="logo" id="conf_logo" src="/img/{{ site.conf_year }}/conf-logo.png">
+      <a href="/confs/{{ site.conf_year }}">
+        <h2> UNIS-UN {{ site.conf_year }} </h2>
+        <p> {{ site.data.[site.conf_year].info.title }}</p>
+      </a>
     </div>
     <div style="clear:both;"></div>
 </div>
