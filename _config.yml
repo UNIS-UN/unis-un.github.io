@@ -9,6 +9,7 @@ conf_year: "2015"
 #Social media
 twitter_username: unis_un
 facebook_username: unisunconf
+insta_username: unis_un
 
 # Build settings
 markdown: kramdown
