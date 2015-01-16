@@ -3,8 +3,8 @@ layout: page
 title: Past Conferences
 ---
 
-{% for conf_hash in site.data reversed %}
-	{% assign conf = conf_hash[1] %}
+{% for year in site.data.confs %}
+	{% assign conf = site.data.[year] %}
  	<h2> {{ conf.info.title }} </h2>
  	{% for p in conf.dest.long %}
  		<p> {{ p }} </p>
