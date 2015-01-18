@@ -182,6 +182,11 @@ nav ul ul ul {
   padding: 10px;
   margin-right: 40px;
 }
+.logo_in_list { 
+  float: left; 
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
 
 .small {
   font-size: 12px;

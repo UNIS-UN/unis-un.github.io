@@ -5,9 +5,11 @@ title: Past Conferences
 
 {% for year in site.data.confs %}
 	{% assign conf = site.data.[year] %}
- 	<h2> {{ conf.info.title }} </h2>
+ 	<h2> {{ conf.info.year }} {{ conf.info.title }} </h2>
+ 	<img class="logo logo_in_list" src="/img/{{ conf.info.year }}/conf-logo.png">
  	{% for p in conf.dest.long %}
  		<p> {{ p }} </p>
  	{% endfor %}
- 	<span class="small"><a href="/confs/{{ conf.info.year }} "> read more... </a></span>
+ 	<span ><a href="/confs/{{ conf.info.year }} "> read more... </a></span>
+ 	<hr>
 {% endfor %}
