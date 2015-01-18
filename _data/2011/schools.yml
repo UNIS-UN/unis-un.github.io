@@ -1,0 +1,118 @@
+- flag: ca
+  country: Canada
+  schools: 
+   - St. George's School
+
+- flag: bm
+  country: Bermuda
+  schools: 
+   - The Berkeley Institute
+   - Cedarbridge Academy
+   - Mount Saint Agnes Academy
+   - Saltus Grammar School
+   - Warwick Academy
+
+- flag: ch
+  country: China
+  schools: 
+   - Beijing Royal School
+   - Chengdu Experimental Foreign Languages School (West Campus)
+   - Chengdu No.12 High School
+   - Chengdu Shude High School
+   - Guiyang No.1 High School
+   - The Second High School Attached to Beijing Normal University
+   - Shanghai Foreign Language School
+
+- flag: fi
+  country: Finland
+  schools: 
+   - Helsingin Suomalainen Yhteiskoulu
+
+- flag: de
+  country: Germany
+  schools: 
+   - Alfred Wegener Schule Kirchhain
+   - Altes Kurfuerstliches Gymnasium
+   - Hohe Landesschule Germany
+   - Oberstufenkolleg Bielefeld 
+
+- flag: gh
+  country: Ghana
+  schools:
+   - St. Augustine College
+
+- flag: in
+  country: India
+  schools:
+   - Calcutta International School
+   - Maria's Public School
+
+- flag: jm
+  country: Jamaica
+  schools:
+   - Campion College
+   - Excelsior Community College
+   - Jamaica College
+   - Munro College
+   - Queen's High School
+   - St. Hugh's High School
+
+- flag: jp
+  country: Japan
+  schools:
+   - Haguro High School
+   - Joho High School
+   - Senzoku Gakuen High School
+   - Yamate Gakuin High School
+   - Yokohama Municipal Higashi Senior High School
+   - Yokohama Shogyo High School
+
+- flag: lu
+  country: Luxembourg
+  schools:
+   - International School of Luxembourg
+
+- flag: mx
+  country: Mexico
+  schools:
+   - Colegio Carol Baur (Fundacion Cultural Baur)
+
+- flag: ma
+  country: Morocco
+  schools:
+   - The American School of Tangier
+
+- flag: 'no'
+  country: Norway
+  schools:
+   - Berg VGS
+   - Oslo Katedralskole
+
+- flag: sg
+  country: Singapore
+  schools:
+   - Paya Lebar Methodist Girls' School (Secondary)
+
+- flag: es
+  country: Spain
+  schools:
+   - Frederic Mistral Tecnic Eulalia
+
+- flag: se
+  country: Sweeden
+  schools:
+   - Frans Suell High School
+
+- flag: tg
+  country: Togo
+  schools:
+   - British School of Lome
+
+- flag: us
+  country: United States
+  schools:
+   - Claremont Prep
+   - Houston High School
+   - Lakeridge Highschool
+   - Newark Collegiate Academy
+   - Razi School

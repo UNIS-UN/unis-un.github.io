@@ -12,19 +12,42 @@ layout: default
 {{ content }}
 </div>
 
+{% if conf.speakers %}
 <hr> 
-
 <div class="speakers">
     <h1> Speakers </h1>
     <ul>
-      {% for speaker_hash in conf.speakers %}
-        {% assign speaker = speaker_hash[1] %}
+      {% for speaker in conf.speakers %}
         <li>
           <div class="speaker">
-            <img class="head" src="/img/2015/speakers/sample.jpg">
+            <img class="head" src="/img/{{ conf.info.year }}/speakers/{{ speaker.name_normal }}.jpg">
             <h2> {{ speaker.name}} </h2>
           </div>
         </li>
       {% endfor %}
     </ul>
  </div>
+{% endif %}
+
+{% if conf.schools %}
+ <hr>
+ <div class="visiting_schools">
+    <h1> Visiting Schools </h1>
+    <table>
+    {% assign sorted_schools = conf.schools | sort: 'country' %}
+    {% for school in sorted_schools %}
+      <tr>
+        <td>
+          <img class="flag" src="/img/flags/{{ school.flag }}.png" >
+        </td>
+        <td>
+          <span style="font-weight: bold;"> {{ school.country }} </span>
+        </td>
+        <td>
+          {{ school.schools | join: ', '}}
+        </td>
+      </tr>
+      {% endfor %}
+    </table>
+ </div>
+ {% endif %}

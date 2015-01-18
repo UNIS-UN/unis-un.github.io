@@ -166,32 +166,6 @@ nav ul ul ul {
 }
 
 /* ======================
-    Speaker List Section
-  ======================= */
-.head {
-  width:170px;
-  border-radius: 300px
-}
-.speaker {
-  text-align: center;
-  display: inline-table;
-  margin: 20px;
-}
-.speaker h2{
-  margin: 0;
-  font-weight: normal;
-}
-.speakers ul{
-  list-style: none;
-  text-align: center;
-  padding: 0;
-}
-.speakers ul li{
-  display: inline;
-  margin: 20px;
-}
-
-/* ======================
     Conf logos
   ======================= */
 .logo {
@@ -238,7 +212,54 @@ nav ul ul ul {
   margin: 0;
 }
 
+/* ======================
+    Speaker List Section
+  ======================= */
+.head {
+  width:170px;
+  border-radius: 300px
+}
+.speaker {
+  text-align: center;
+  display: inline-table;
+  margin: 20px;
+}
+.speaker h2{
+  margin: 0;
+  font-weight: normal;
+}
+.speakers ul{
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+.speakers ul li{
+  display: inline;
+  margin: 20px;
+}
 
+/* ======================
+    Table
+  ======================= */
+.flag {
+  width: 45px;
+  margin: 5px;
+}
+td {
+  vertical-align:middle;
+  padding: 0 10px;
+
+}
+
+table {
+  border-spacing: 0;
+}
+tr:nth-child(even) {
+  background: #CCC
+}
+tr:nth-child(odd) {
+  background: #FFF
+}
 /* ======================
     Footer
   ======================= */
