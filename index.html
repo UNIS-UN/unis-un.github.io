@@ -17,7 +17,9 @@ layout: default
 
     <div class="right cur_conf">
       <h1>Upcoming Events</h1>
-      <a href="/confs/{{ site.conf_year }}"><img class="logo" id="conf_logo" src="/img/{{ site.conf_year }}/conf-logo.png">
+      <a href="/confs/{{ site.conf_year }}">
+        <img class="logo" src="/img/{{ site.conf_year }}/conf-logo.png"> 
+      </a>
       <a href="/confs/{{ site.conf_year }}">
         <h2> UNIS-UN {{ site.conf_year }} </h2>
         <p> {{ site.data.[site.conf_year].info.title }}</p>

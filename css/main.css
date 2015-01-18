@@ -6,13 +6,21 @@ body {
   color: #555;
 }
 
+/* ======================
+    Font Stuff
+  ======================= */
 h1 {
   color: #4C8EB9;
   font-weight: normal;
 }
+
 h2, h3, h4, h5, h6 {
   color: #333;
   font-weight: normal;
+}
+
+.small {
+  font-size: 12px;
 }
 
 a {
@@ -22,6 +30,15 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+hr {
+  border: solid #ddd;
+  border-width: 1px 0 0;
+  clear: both;
+  margin: 10px 0 30px;
+  height: 0;
+}
+
 /* ======================
     Header
   ======================= */
@@ -111,7 +128,7 @@ nav ul ul ul {
 
 /* Logo and Title */
 
-#logo {
+#main_logo {
   text-align: center;
   width: 300px;
   margin: 0 auto;
@@ -119,7 +136,7 @@ nav ul ul ul {
   color: white;
 }
 
-#logo_img {
+#main_logo_img {
   margin: 0 auto;
 }
 
@@ -134,7 +151,7 @@ nav ul ul ul {
 }
 
 /* ======================
-    Footer
+    Main Page
   ======================= */
 .page-content{
   background-color: #fff;
@@ -148,6 +165,9 @@ nav ul ul ul {
   max-width: 1200px;
 }
 
+/* ======================
+    Speaker List Section
+  ======================= */
 .head {
   width:170px;
   border-radius: 300px
@@ -171,11 +191,11 @@ nav ul ul ul {
   margin: 20px;
 }
 
+/* ======================
+    Conf logos
+  ======================= */
 .logo {
   width: 200px;
-}
-#conf_logo {
-  margin: 0 auto;
 }
 .logo_in_page{
   float: right;
@@ -188,24 +208,9 @@ nav ul ul ul {
   padding-bottom: 10px;
 }
 
-.small {
-  font-size: 12px;
-}
-.cur_conf{
-  text-align: center;
-}
-.cur_conf h1{
-  text-align: left;
-  margin-left: 20px;
-}
-
-.cur_conf h2{
-  margin: 0;
-}
-.cur_conf p{
-  margin: 0;
-}
-
+/* ======================
+    Main page 2 col
+  ======================= */
 .col_2 div {
   max-width: 50%;
   width: 50%;
@@ -218,13 +223,21 @@ nav ul ul ul {
   float: left;
 }
 
-hr {
-  border: solid #ddd;
-  border-width: 1px 0 0;
-  clear: both;
-  margin: 10px 0 30px;
-  height: 0;
+/* Upcoming Events */
+.cur_conf{
+  text-align: center;
 }
+.cur_conf h1{
+  text-align: left;
+  margin-left: 20px;
+}
+.cur_conf h2{
+  margin: 0;
+}
+.cur_conf p{
+  margin: 0;
+}
+
 
 /* ======================
     Footer
