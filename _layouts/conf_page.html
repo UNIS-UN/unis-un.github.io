@@ -31,7 +31,7 @@ layout: default
 
 {% if conf.schools %}
  <hr>
- <div class="visiting_schools">
+ <div id="visiting_schools">
     <h1> Visiting Schools </h1>
     <table>
     {% assign sorted_schools = conf.schools | sort: 'country' %}
