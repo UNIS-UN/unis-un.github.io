@@ -1,6 +1,6 @@
-long:
-- rfrfsdfsdfdsf
-- fdasads
+long: |
+ rfrfsdfsdfdsf
+ fdasads
 
 short:
 - short dest
