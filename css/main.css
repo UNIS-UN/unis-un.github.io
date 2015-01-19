@@ -150,6 +150,25 @@ nav ul ul ul {
   font-size: 20px;
 }
 
+@media (max-width: 375px) {
+  .header {
+    height: 330px;
+  }
+  #main_logo {
+    padding-top: 80px;
+  }
+  nav {
+    padding-top: 0;
+  }
+  nav ul {
+    margin-top: 5px;
+  }
+  nav ul ul {
+     background: rgba(52, 152, 219,0.9); 
+  }
+
+}
+
 /* ======================
     Main Page
   ======================= */
@@ -164,7 +183,11 @@ nav ul ul ul {
 .content{
   max-width: 1200px;
 }
-
+@media (max-width: 1200px) {
+  .page-content {
+    padding: 0 5px;
+  }
+}
 /* ======================
     Conf logos
   ======================= */
@@ -186,8 +209,8 @@ nav ul ul ul {
     Main page 2 col
   ======================= */
 .col_2 div {
-  max-width: 50%;
-  width: 50%;
+  max-width: 600px;
+  width: 100%;
   min-width: 200px;
 }
 .col_2 .left{
@@ -210,6 +233,15 @@ nav ul ul ul {
 }
 .cur_conf p{
   margin: 0;
+}
+
+@media (max-width: 1200px) {
+  .col_2 div {
+    max-width: 100%;
+  }
+  .cur_conf h1 {
+    margin-left: 0;
+  }
 }
 
 /* ======================
@@ -283,6 +315,7 @@ footer a:hover {
 
 footer ul {
   list-style: none;
+  padding: 0;
 }
 footer .wrap {
   display: table;
