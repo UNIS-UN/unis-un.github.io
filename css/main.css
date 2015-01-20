@@ -150,15 +150,12 @@ nav ul ul ul {
   font-size: 20px;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 860px) {
   .header {
     height: 330px;
   }
   #main_logo {
     padding-top: 80px;
-  }
-  nav {
-    padding-top: 0;
   }
   nav ul {
     margin-top: 5px;
@@ -167,6 +164,12 @@ nav ul ul ul {
      background: rgba(52, 152, 219,0.9); 
   }
 
+}
+
+@media (max-width: 371px) {
+  nav {
+    padding-top: 0;
+  }
 }
 
 /* ======================
