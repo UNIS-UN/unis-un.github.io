@@ -1,0 +1,48 @@
+- flag: ca
+  country: Belgium
+  schools: 
+   - Europese School of Moi
+
+- flag: cn
+  country: China 
+  schools:
+  - Shanghai 
+  - "#1 Experimental School"
+  - Huanggang Middle School
+  - Guangzhou
+  - "Chengdu Huaying Consulting & Service Co., Ltd"
+
+- flag: fr
+  country: France 
+  schools:
+  - French American International School? (Lycee Int'l)
+
+- flag: us
+  country: USA
+  schools:
+  - Shanghai Foreign Language School
+  - Hunter College High School
+
+- flag: de
+  country: Germany
+  schools:
+   - Galileo Gymnasium
+   - Nelson Mandela School / State International School Berlin
+
+- flag: jp
+  country: Japan
+  schools:
+   - Kagoshima Joho
+
+
+- flag: ch
+  country: Switzerland
+  schools:
+   - Institut Florimont
+
+
+- flag: es
+  country: Spain
+  schools:
+   - Frederic Mistral
+
