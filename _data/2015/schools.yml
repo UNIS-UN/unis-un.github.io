@@ -1,48 +1,95 @@
-- flag: ca
-  country: Belgium
-  schools: 
-   - Europese School of Moi
+-  flag: be
+   country:  Belgium
+   schools:
+   - "European School Mol"
+   - "European School of Brussels 3"
 
-- flag: cn
-  country: China 
-  schools:
-  - Shanghai 
-  - "#1 Experimental School"
-  - Huanggang Middle School
-  - Guangzhou
-  - "Chengdu Huaying Consulting & Service Co., Ltd"
+-  flag: cl
+   country: Chile
+   schools:
+   - "Santiago College"
 
-- flag: fr
-  country: France 
-  schools:
-  - French American International School? (Lycee Int'l)
+-  flag: ch
+   country:  Switzerland
+   schools:
+   - "Institut Florimont"
 
-- flag: us
-  country: USA
-  schools:
-  - Shanghai Foreign Language School
-  - Hunter College High School
+-  flag: cn
+   country: China
+   schools:
+   - "Chengdu Huaying Consulting & Service Co., Ltd."
+   - "Huanggang Middle School Guangzhou Campus"
+   - "Shanghai Foreign Language School Affiliated to SISU"
+   - "Shanghai No.1 Experimental School Affiliated To SISU"
 
-- flag: de
-  country: Germany
-  schools:
-   - Galileo Gymnasium
-   - Nelson Mandela School / State International School Berlin
+-  flag: de
+   country: Germany
+   schools:
+   - "Nelson Mandela School / State International School Berlin"
+   - "AKG Bensheim"
+   - "Alfred-Wegener-Schule"
+   - "Galileo Gymnasium"
+   - "Phorms School"
 
-- flag: jp
-  country: Japan
-  schools:
-   - Kagoshima Joho
+-  flag: dk
+   country: Denmark
+   schools:
+   - "Birkerod Gymnasium"
+   - " HF & IB"
 
+-  flag: es
+   country: Spain
+   schools:
+   - "Frederic Mistral Tècnic Eulàlia"
 
-- flag: ch
-  country: Switzerland
-  schools:
-   - Institut Florimont
+-  flag: et
+   country:  Ethiopia
+   schools:
+   - "International Community School Addis Ababa"
 
+-  flag: fi
+   country:  Finland
+   schools:
+   - "Helsingin Suomalainen Yhteiskoulu"
 
-- flag: es
-  country: Spain
-  schools:
-   - Frederic Mistral
+-  flag: in
+   country:  India
+   schools:
+   - "The Cathedral & John Connon School"
+
+-  flag: jp
+   country:  Japan
+   schools:
+   - "Kagoshima Joho"
+   - "Yokohama Higashi High School"
+   - "Haguro High School"
+   - "Yokohama Shogyo High School"
+
+-  flag: pr
+   country:  Puerto Rico
+   schools:
+   - "Nuestra Escuela"
+   - "Commonwealth-Parkville School"
+
+-  flag: us
+   country:  USA
+   schools:
+   - "Hunter College High School"
+   - "French American International School"
+   - "RAZI School"
+   - "Avenues:  The World School"
+   - "The Calhoun School"
+   - "High School of Economics & Finance"
+   - "High School for Environmental Studies"
+   - "High School for Environmental Studies"
+   - "Garden School"
+   - "Bronx High Schol of Science"
+   - "Brooklyn Prospect Charter School"
+   - "NYC Lab School"
+
+-  flag: uk
+   country:  United Kingdom 
+   schools:
+   - "Mulberry School for Girls"
+
 
