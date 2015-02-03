@@ -7,7 +7,7 @@ logo_url: http://www.unis-un.org/img/fb.png
 #Upcoming Confrence year (Remeber to use quotes)
 conf_year: "2015"
 
-#Social media
+# Social media
 twitter_username: unis_un
 facebook_username: unisunconf
 insta_username: unis_un
@@ -15,3 +15,5 @@ insta_username: unis_un
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+

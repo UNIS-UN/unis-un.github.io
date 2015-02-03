@@ -2,3 +2,12 @@
 Usefull links:
 RFC 3066: http://www.i18nguy.com/unicode/language-identifiers.html
 Flags: 
+
+Names for files
+
+All names and files must be put in the correct place with the correct fomrating. Names are case sensitive.
+
+all images for each confrence such as this years logo and banner must going in a folder whos name is the year of the confrence eg "2015". The names for spesifice files are as follows
+
+images:
+Conf logo: conf-logo.png

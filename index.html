@@ -37,7 +37,8 @@ layout: default
 
 <hr>
 
-<!--
+{% if site.live == true %}
+ <!-- Live Streem Section -->
 <div id="steam_sec">
   <h1> Live Stream </h1>
   <div class="stream">
@@ -45,7 +46,8 @@ layout: default
   </div>
   <hr>
 </div>
--->
+
+{% endif %}
 
 <div class="speakers">
   <h1> Speakers {{ site.conf_year}} </h1>
@@ -60,7 +62,5 @@ layout: default
     {% endfor %}
   </ul>
 </div>
-
-
 
 
