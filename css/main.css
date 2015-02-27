@@ -278,6 +278,15 @@ nav ul ul ul {
 }
 
 /* ======================
+    Thanks
+  ======================= */
+.sponsors{
+  max-width: 600px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* ======================
     Table
   ======================= */
 .flag {
@@ -318,7 +327,6 @@ footer a {
 footer a:hover {
   color: white;
 }
-
 
 footer ul {
   list-style: none;
