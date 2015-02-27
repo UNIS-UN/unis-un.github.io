@@ -7,6 +7,10 @@ logo_url: http://www.unis-un.org/img/fb.png
 #Upcoming Confrence year (Remeber to use quotes)
 conf_year: "2015"
 
+#Settings
+show_tweets: true
+live: false
+
 # Social media
 twitter_username: unis_un
 facebook_username: unisunconf
