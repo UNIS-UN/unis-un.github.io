@@ -289,6 +289,9 @@ nav ul ul ul {
 .schedule b {
   color: #4C8EB9;
 }
+.schedule h2{
+  margin: 0;
+}
 /* ======================
     Table
   ======================= */
