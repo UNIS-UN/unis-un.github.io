@@ -39,10 +39,12 @@ layout: default
     <div style="clear:both;"></div>
 </div>
 
+{% if site.show_sched %}
 <hr>
 
 <div class="schedule col_2">
   <h1> Schedule </h1>
+  <!-- Edit below -->
   <div class="left">
     <h2> Thursday 5<sup>th</sup> </h2>
     <table >
@@ -105,22 +107,28 @@ layout: default
       </tr>
     </table>
   </div>
+  <!-- Stop edting -->
 </div>
 
+{% endif %}
+
+{% if site.live %}
 <hr>
-
-
 
  <!-- Live Streem Section -->
 <div id="steam_sec">
   <h1> Live Stream </h1>
   <div class="stream">
+    <!-- This is where the live stream embed link will go -->
+
     <iframe frameborder="0" width="480" height="270" scrolling="no" src="https://link.brightcove.com/services/player/bcpid1722935254001/?bctid=2490774073001&autoStart=false&secureConnections=true&width=480&height=270" ></iframe> 
+
+    <!-- Dont touch anything below this -->
   </div>
   <hr>
 </div>
 
-
+{% endif %}
 
 <div class="speakers">
   <h1> Speakers {{ site.conf_year}} </h1>
