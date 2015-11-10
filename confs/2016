@@ -1,0 +1,14 @@
+---
+layout: conf_page
+conf: true
+
+title: "2016 Media's Influence: Opinions, Activism, & Outcomes"
+title_s: 2016 Media's Influence
+year: "2016"
+---
+
+{% for p in site.data.[page.year].dest.long  %}
+ 
+ 	{{ p }}
+
+g{% endfor %}
