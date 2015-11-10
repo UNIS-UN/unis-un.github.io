@@ -4,8 +4,8 @@ url: http://www.unis-un.org
 email: info@unis-un.org
 description: "unis-un does stuff"
 logo_url: http://www.unis-un.org/img/fb.png
-#Upcoming Confrence year (Remeber to use quotes)
-conf_year: "2015"
+#Upcoming Conference year (Remeber to use quotes)
+conf_year: "2016"
 
 #Settings
 show_tweets: false
