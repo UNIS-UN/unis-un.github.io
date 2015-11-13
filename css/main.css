@@ -54,9 +54,9 @@ header{
 /* Nav bar */
 
 nav {
+  padding: 20px;
   font-size: 16px;
-  padding-bottom: 0;
-  text-align: center;
+  padding-bottom: 0; 
   position: absolute;
   color: white;
 }
@@ -349,7 +349,9 @@ footer .wrap {
 }
 .column { 
   display: table-cell;
-  marign-bottom: 15px;
+  margin-bottom: 15px;
   padding: 0 5px; 
   width: 33%;
 }
+
+/* "Welcome to UNIS-UN" */
