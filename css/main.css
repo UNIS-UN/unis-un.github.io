@@ -134,9 +134,13 @@ nav ul ul ul {
   color: white;
 }
 
+#main_logo img {
+  width: 300px;
+}
+
 #main_logo_img {
   margin: 0 auto;
-  width: 1000px;
+  width: 300px;
 }
 
 #main_title {
