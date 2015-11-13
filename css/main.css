@@ -1,10 +1,7 @@
-<script src="https://use.typekit.net/bnx4ioo.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
-
 body {
   margin: 0;
   background-color: #4C8EB9;
-  font-family: "acumin-pro", sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   color: #555;
 }
@@ -74,18 +71,18 @@ nav a:hover{
 }
 
 nav ul ul {
-  display: inline-block;
+  display: none;
 }
 
 nav ul li:hover > ul {
-  display: inline-block;
+  display: block;
 }
 
 nav ul {
   padding: 0;
   list-style: none;
   position: relative;
-  display: inline-block;
+  display: inline-table;
 }
 
 nav ul:after {
@@ -101,7 +98,7 @@ nav ul li:hover {
 }
 
 nav ul li a {
-  display: inline-block;
+  display: block;
   padding: 10px 20px;
   text-decoration: none;
 }
