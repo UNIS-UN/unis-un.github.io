@@ -1,20 +1,17 @@
 <header>
   <div class="wrap header">
-    <div id="main_logo">
-      <a href="/"><img src="/img/main-logo.png" id="main_logo_img"> </a>
-    </div>
     <nav>
       <ul>
         <li>
-          <a> About </a>
+          <a>ABOUT</a>
           <ul>
-            <li> <a href="/about/mission"> Our Mission</a> </li>
-            <li> <a href="/about/history"> History </a> </li>
-            <li> <a href="/about/organization"> Organization </a> </li>
+            <li> <a href="/about/mission">MISSION</a> </li>
+            <li> <a href="/about/history">HISTORY</a> </li>
+            <li> <a href="/about/organization">ORGANIZATION</a> </li>
           </ul> 
         </li>
         <li>
-          <a> Conferences </a>
+          <a>CONFERENCES</a>
           <ul>
             {% for year in site.data.confs limit:3 %}
               <li>
@@ -25,13 +22,16 @@
           </ul>
         </li>
         <li>
-         <a> Information </a>
+         <a>INFORMATION</a>
          <ul>
-            <li> <a href="/info/schools"> For Visiting Schools </a> </li>
-            <li> <a href="/info/hosts"> For UNIS Hosts </a> </li>
+            <li> <a href="/info/schools">VISITING SCHOOLS</a> </li>
+            <li> <a href="/info/hosts">UNIS HOSTS</a> </li>
           </ul> 
         </li>
       </ul>
     </nav>
+    <div id="main_logo">
+      <a href="/"><img src="/img/main-logo.png" id="main_logo_img"> </a>
+    </div>
   </div> 
 </header>
