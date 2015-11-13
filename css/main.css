@@ -88,7 +88,7 @@ nav ul:after {
 }
 
 nav ul li {
-  float: center;
+  float: left;
 }
 
 nav ul li:hover {
