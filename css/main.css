@@ -128,7 +128,7 @@ nav ul ul ul {
 
 #main_logo {
   text-align: center;
-  width: 500px;
+  width: 300px;
   margin: 0 auto;
   padding: 10px;
   color: white;
@@ -136,6 +136,7 @@ nav ul ul ul {
 
 #main_logo_img {
   margin: 0 auto;
+  width: 1000px;
 }
 
 #main_title {
