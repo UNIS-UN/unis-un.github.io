@@ -135,7 +135,9 @@ nav ul ul ul {
 }
 
 #main_logo img {
-  width: 300px;
+  padding-top:50px;
+  padding-bottom:50px;
+  width: 200px;
 }
 
 #main_logo_img {
