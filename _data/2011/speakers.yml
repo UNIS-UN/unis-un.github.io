@@ -1,23 +1,31 @@
 - name: Nicholas Negroponte
   name_normal: nicholas_negroponte
+  bio_link: http://one.laptop.org/about/people/negroponte
 
 - name: Kamran Elahian
   name_normal: kamran_elahian
+  bio_link: http://kamranelahian.com/
 
 - name: Judith Donath
   name_normal: judith_donath
+  bio_link: https://twitter.com/judithd
 
 - name: Burt Herman
   name_normal: burt_herman
+  bio_link: http://www.burtherman.com/
 
 - name: Clay Shirky
   name_normal: clay_shirky
+  bio_link: http://www.shirky.com/
 
 - name: Jon Lawhead
   name_normal: jon_lawhead
+  bio_link: https://twitter.com/philosoraptor
 
 - name: Marc Rotenberg
   name_normal: marc_rotenberg
+  bio_link: https://en.wikipedia.org/wiki/Marc_Rotenberg
 
 - name: Alexis Ohanian
   name_normal: alexis_ohanian
+  bio_link: http://alexisohanian.com/
