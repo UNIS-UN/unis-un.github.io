@@ -10,6 +10,10 @@ body {
     Font Stuff
   ======================= */
 
+p {
+  font-weight: 300;
+}
+
 h1 {
   color: #4C8EB9;
   font-weight: 500;
