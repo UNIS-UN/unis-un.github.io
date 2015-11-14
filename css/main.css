@@ -51,6 +51,11 @@ header{
   background-size: cover;
  }
  
+ .headerline {
+   display: inline-block;
+   margin: 0 auto;
+  }
+ 
 /* Nav bar */
 
 nav {
