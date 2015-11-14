@@ -82,6 +82,8 @@ nav {
   padding-bottom: 0; 
   position: absolute;
   color: white;
+  text-align:center;
+  margin: 0 auto;
 }
 nav a{
   color: white;
@@ -157,8 +159,8 @@ nav ul ul ul {
 }
 
 #main_logo img {
-  padding-top:50px;
-  padding-bottom:50px;
+  padding-top:20px;
+  padding-bottom:20px;
   width: 200px;
 }
 
@@ -179,16 +181,13 @@ nav ul ul ul {
 
 @media (max-width: 860px) {
   .header {
-    height: 330px;
+    height: 400px;
   }
   #main_logo {
     padding-top: 80px;
   }
   nav ul {
     margin-top: 5px;
-  }
-  nav ul ul {
-     background: rgba(52, 152, 219,0.9); 
   }
 
 }
