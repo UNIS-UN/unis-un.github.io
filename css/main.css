@@ -11,12 +11,12 @@ body {
   ======================= */
   
 p {
-  font-weight: 200;
+  font-weight: 300;
 }
 
 h1 {
   color: #4C8EB9;
-  font-weight: bold;
+  font-weight: 500;
 }
 
 h2, h3, h4, h5, h6 {
