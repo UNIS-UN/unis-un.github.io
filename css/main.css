@@ -221,7 +221,12 @@ nav ul ul ul {
   width: 300px;
 }
 
-.homeupcoming a:hover {
+.homeupcoming p:hover {
+  color:#000000;
+  text-decoration:none;
+}
+
+.homeupcoming h2:hover {
   color:#000000;
   text-decoration:none;
 }
