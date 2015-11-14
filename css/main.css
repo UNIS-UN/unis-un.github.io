@@ -218,7 +218,11 @@ nav ul ul ul {
 }
 
 #homeuplogo {
-  width: 300px;
+  width: 350px;
+}
+
+.homeupcoming hover {
+  color:#000000;
 }
 
 /* ======================
