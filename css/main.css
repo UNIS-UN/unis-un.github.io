@@ -21,7 +21,7 @@ h2, h3, h4, h5, h6 {
 }
 
 .mission {
-  font-size: 24px;
+  font-size: 28px;
 }
 
 .small {
@@ -114,11 +114,12 @@ nav ul li:hover {
 
 nav ul li a {
   padding: 10px 20px;
+  display:block;
   text-decoration: none;
 }
 
 nav ul ul {
-  background: rgba(52, 152, 219,0.2); 
+  display:block;
   border-radius: 0px; 
   padding: 0;
   position: absolute; 
@@ -127,10 +128,12 @@ nav ul ul {
 nav ul ul li {
   float: left; 
   position: relative;
+  display:block;
 }
 
 nav ul ul ul {
   position: absolute; 
+  display:block;
   left: 100%; 
   top:0;
 }
