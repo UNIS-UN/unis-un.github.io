@@ -1,7 +1,7 @@
 body {
   margin: 0;
   background-color: #67AEE2;
-  font-family: "lato",sans-serif;
+  font-family: "lato", sans-serif;
   font-size: 14px;
   color: #555;
 }
@@ -27,8 +27,12 @@ h2, h3, h4, h5, h6 {
 
 .visiting {
   font-size: 18px;
-  font-weight: lighter;
   color: #333;
+  padding-bottom: 20px;
+  font-weight: normal;
+  margin: 0;
+  font-family: "lato",sans-serif;
+  color: #555;
 }
 
 .small {
@@ -62,12 +66,6 @@ header{
   background: url(/img/generic-bg.png);
   background-size: cover;
  }
- 
- .headerline {
-   -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
-  }
  
 /* Nav bar */
 
