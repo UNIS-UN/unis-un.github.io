@@ -25,11 +25,11 @@ layout: default
     {% else %}
       <h1>Upcoming Events</h1>
       <a href="/confs/{{ site.conf_year }}">
-        <img class="logo" src="/img/{{ site.conf_year }}/conf-logo.png"> 
+        <img id ="homeuplogo" class="logo" src="/img/{{ site.conf_year }}/conf-logo.png"> 
       </a>
       <a href="/confs/{{ site.conf_year }}">
-        <h2> UNIS-UN {{ site.conf_year }} </h2>
-        <p> {{ site.data.[site.conf_year].info.title }}</p>
+        <h2 class ="homeupcoming"> UNIS-UN {{ site.conf_year }} </h2>
+        <p class ="homeupcoming"> {{ site.data.[site.conf_year].info.title }}</p>
       </a>
 
     {% endif %}
