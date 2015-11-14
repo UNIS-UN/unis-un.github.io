@@ -86,6 +86,7 @@ nav ul ul {
   display: none;
 }
 
+
 nav ul li:hover > ul {
   display: block;
 }
@@ -94,7 +95,7 @@ nav ul {
   padding: 0;
   list-style: none;
   position: relative;
-  display: inline-table;
+  display: block;
 }
 
 nav ul:after {
