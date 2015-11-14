@@ -9,14 +9,19 @@ body {
 /* ======================
     Font Stuff
   ======================= */
+  
+p {
+  font-weight: 200;
+}
+
 h1 {
   color: #4C8EB9;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 h2, h3, h4, h5, h6 {
   color: #333;
-  font-weight: 200;
+  font-weight: 500;
 }
 
 .small {
@@ -207,16 +212,6 @@ nav ul ul ul {
     padding: 0 5px;
   }
 }
-
-/* ======================
-    Mission Page
-  ======================= */
-
-.mission {
-  font-size: 18px;
-  padding:20px;
-}
-
 /* ======================
     Conf logos
   ======================= */
