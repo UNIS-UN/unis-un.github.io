@@ -67,6 +67,8 @@ hr {
   ======================= */
 header{
   background-color: #67AEE2;
+  max-width: 100%;
+  overflow: hidden;
 }
 
 .header {
@@ -208,6 +210,13 @@ nav ul ul ul {
 .wrap {
   margin: 0 auto;
 }
+
+header .wrap {
+  display: table;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 .content{
   max-width: 1200px;
 }
