@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Past Conferences
+title: Conferences
 ---
 
 {% for year in site.data.confs %}
