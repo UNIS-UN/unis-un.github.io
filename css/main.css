@@ -66,12 +66,11 @@ header{
 /* Nav bar */
 
 nav {
-  font-size: 14px;
-  padding-bottom: 0;
-  text-align: center;
+  padding: 20px;
+  font-size: 16px;
+  padding-bottom: 0; 
   position: absolute;
   color: white;
-  text-align:center;
 }
 nav a{
   color: white;
@@ -80,17 +79,12 @@ nav a{
 nav a:hover{
   text-decoration: none;
 }
-nav ul {
-  display: inline;
-}
+
 nav ul ul {
   display: none;
 }
-nav ul li:hover > ul {
-  display: block;
-}
 
-nav ul li:hover {
+nav ul li:hover > ul {
   display: block;
 }
 
@@ -98,6 +92,7 @@ nav ul {
   padding: 0;
   list-style: none;
   position: relative;
+  display: inline-table;
 }
 
 nav ul:after {
@@ -109,10 +104,10 @@ nav ul li {
 }
 
 nav ul li:hover {
-  display: block;
 }
 
 nav ul li a {
+  display: block; 
   padding: 10px 20px;
   text-decoration: none;
 }
@@ -124,8 +119,12 @@ nav ul ul {
   top: 100%;
 }
 nav ul ul li {
-  float: left; 
+  float: none; 
   position: relative;
+}
+
+
+nav ul ul li a:hover {
 }
 
 nav ul ul ul {
