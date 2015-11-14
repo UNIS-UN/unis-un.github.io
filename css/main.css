@@ -1,7 +1,7 @@
 body {
   margin: 0;
   background-color: #4C8EB9;
-  font-family: "acumin-pro",sans-serif;
+  font-family: "open-sans",sans-serif;
   font-size: 16px;
   color: #555;
 }
@@ -16,7 +16,7 @@ h1 {
 
 h2, h3, h4, h5, h6 {
   color: #333;
-  font-weight: normal;
+  font-weight: 600;
 }
 
 .small {
