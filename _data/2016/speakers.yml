@@ -1,14 +1,19 @@
 - name: Suroosh Alvi
   name_normal: suroosh_alvi
+  bio_link: https://twitter.com/SurooshAlvi
 
 - name: Buzz Bissinger 
   name_normal: buzz_bissinger
+  bio_link: http://www.buzzbissinger.com/
   
 - name: Deborah Seward
   name_normal: deborah_seward
+  bio_link: http://www.sandiegouniontribune.com/news/2010/aug/03/deborah-seward-named-ap-assistant-managing-editor/
   
 - name: Susan Chira
   name_normal: susan_chira
+  bio_link: https://twitter.com/susanchira
   
 - name: Casey Neistat
   name_normal: casey_neistat
+  bio_link: http://casey.nyc/
