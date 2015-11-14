@@ -246,8 +246,8 @@ nav ul ul ul {
 }
 .logo_in_page{
   float: right;
-  padding: 30px;
-  margin-left:10px;
+  padding-left: 30px;
+  padding-right: 30px;
   margin-right: 40px;
 }
 .logo_in_list { 
