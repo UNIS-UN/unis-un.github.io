@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: #4C8EB9;
+  background-color: #67AEE2;
   font-family: "lato",sans-serif;
   font-size: 14px;
   color: #555;
@@ -324,6 +324,7 @@ tr:nth-child(odd) {
     Footer
   ======================= */
 footer {
+  color: #ffffff;
   margin-top: 50px;
   background-color: #67AEE2;
   max-width: 100%;
