@@ -13,13 +13,11 @@ body {
 h1 {
   color: #4C8EB9;
   font-weight: 500;
-  font-family: acta-display;
 }
 
 h2, h3, h4, h5, h6 {
   color: #333;
   font-weight: 500;
-  font-family: acta-display;
 }
 
 .mission {
@@ -89,7 +87,7 @@ nav a{
 }
 nav a:hover{
   text-decoration: none;
-  background: rgb(51,51,51,0.2);
+  background: rgba(51,51,51,0.2);
 }
 
 nav ul ul {
@@ -98,7 +96,7 @@ nav ul ul {
 
 nav ul li:hover > ul {
   display: block;
-  background: rgb(51,51,51,0.2);
+  background: rgba(51,51,51,0.2);
 }
 
 nav ul {
@@ -117,7 +115,7 @@ nav ul li {
 }
 
 nav ul li:hover {
- background: rgb(51,51,51,0.2);
+ background: rgba(51,51,51,0.2);
 }
 
 nav ul li a {
@@ -139,7 +137,7 @@ nav ul ul li {
 
 
 nav ul ul li a:hover {
-  background: rgb(51,51,51,0.2);
+  background: rgba(51,51,51,0.2);
 }
 
 nav ul ul ul {
