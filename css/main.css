@@ -242,13 +242,14 @@ nav ul ul ul {
     Conf logos
   ======================= */
 .logo {
-  width: 300px;
+  width: 200px;
 }
 .logo_in_page{
   float: right;
+  width: 300px;
   padding-left: 30px;
   padding-right: 30px;
-  padding-top:-20px;
+  padding-top:0px;
   padding-bottom: 15px;
   margin-right: 35px;
 }
