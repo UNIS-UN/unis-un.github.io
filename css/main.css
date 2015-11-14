@@ -78,6 +78,7 @@ nav a{
 }
 nav a:hover{
   text-decoration: none;
+  background: rgb(51,51,51,0.2);
 }
 
 nav ul ul {
