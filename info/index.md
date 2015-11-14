@@ -33,7 +33,6 @@ title: Important Information
   <li>Low cut back dresses</li>
 </ul>
 
-<p>Girls should wear knee-length skirts or dresses or dress pants and to have their shoulders covered. Opaque leggings are only acceptable when wearing a loose dress shirt. Tights should be opaque not sheer. Boys are expected to wear a suit or dress pants accompanied by a jacket, dress shoes, and collared shirt with a tie. </p>
+<p>Students should wear suits, knee-length skirts or dresses, or dress pants, accompanied by a jacket, dress shoes, and a collared shirt with tie if applicable. All students must have their shoulders and legs covered. Opaque leggings are only acceptable when wearing a loose dress shirt. Tights should be opaque not sheer.</p>
 
-<p>It is also suggested that students carry only small bags, NO large bags will be permitted, as it will make security a lengthy procedure. Do not bring backpacks.
-</p>
+<p>It is also suggested that students carry only small bags, NO large bags will be permitted, as it will make security a lengthy procedure. Do not bring backpacks.</p>
