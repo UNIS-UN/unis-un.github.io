@@ -351,7 +351,7 @@ footer .wrap {
 }
 .column { 
   display: table-cell;
-  marign-bottom: 15px;
+  margin-bottom: 15px;
   padding: 0 5px; 
   width: 33%;
 }
