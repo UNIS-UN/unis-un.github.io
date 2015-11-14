@@ -91,7 +91,7 @@ nav ul:after {
 }
 
 nav ul li {
-  float: center;
+  float: left;
 }
 
 nav ul li:hover {
@@ -112,7 +112,7 @@ nav ul ul {
   top: 100%;
 }
 nav ul ul li {
-  float: center; 
+  float: left; 
   position: relative;
 }
 
