@@ -2,7 +2,7 @@ body {
   margin: 0;
   background-color: #4C8EB9;
   font-family: "lato",sans-serif;
-  font-weight: "200";
+  font-weight: "100";
   font-size: 16px;
   color: #555;
 }
@@ -91,7 +91,7 @@ nav ul:after {
 }
 
 nav ul li {
-  float: left;
+  float: center;
 }
 
 nav ul li:hover {
@@ -112,7 +112,7 @@ nav ul ul {
   top: 100%;
 }
 nav ul ul li {
-  float: none; 
+  float: center; 
   position: relative;
 }
 
