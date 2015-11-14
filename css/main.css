@@ -10,6 +10,10 @@ body {
     Font Stuff
   ======================= */
 
+p {
+  font-weight: 250;
+}
+
 h1 {
   color: #4C8EB9;
   font-weight: 500;
@@ -21,7 +25,7 @@ h2, h3, h4, h5, h6 {
 }
 
 .mission {
-  font-size: 30px;
+  font-weight: 250;
 }
 
 .small {
@@ -75,11 +79,9 @@ nav {
 nav a{
   color: white;
   text-decoration: none;
-  display:inline-block;
 }
 nav a:hover{
   text-decoration: none;
-  display:inline-block;
 }
 nav li {
   display: inline;
@@ -112,7 +114,6 @@ nav ul li:hover {
 }
 
 nav ul li a {
-  display: block;
   padding: 10px 20px;
   text-decoration: none;
 }
@@ -127,11 +128,6 @@ nav ul ul {
 nav ul ul li {
   float: left; 
   position: relative;
-}
-
-
-nav ul ul li a:hover {
-  background: rgba(41, 128, 185, 0.5);
 }
 
 nav ul ul ul {
