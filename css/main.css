@@ -98,7 +98,6 @@ nav ul {
   padding: 0;
   list-style: none;
   position: relative;
-  display: block;
 }
 
 nav ul:after {
@@ -115,12 +114,10 @@ nav ul li:hover {
 
 nav ul li a {
   padding: 10px 20px;
-  display:block;
   text-decoration: none;
 }
 
 nav ul ul {
-  display:block;
   border-radius: 0px; 
   padding: 0;
   position: absolute; 
@@ -129,12 +126,10 @@ nav ul ul {
 nav ul ul li {
   float: left; 
   position: relative;
-  display:block;
 }
 
 nav ul ul ul {
   position: absolute; 
-  display:block;
   left: 100%; 
   top:0;
 }
