@@ -51,6 +51,9 @@ header{
   background-size: cover;
  }
  
+.wheader {
+  display: inline-block;
+}
 
 /* Nav bar */
 
