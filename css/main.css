@@ -48,6 +48,7 @@ header{
 
 .header {
   background: url(/img/generic-bg.png);
+  position: absolute;
   background-size: cover;
  }
 
