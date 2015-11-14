@@ -8,7 +8,7 @@ logo_url: http://www.unis-un.org/img/fb.png
 conf_year: "2016"
 
 #Settings
-show_tweets: true
+show_tweets: false
 show_sched: false
 live: false
 
