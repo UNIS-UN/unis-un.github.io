@@ -27,10 +27,12 @@ layout: default
       <a href="/confs/{{ site.conf_year }}">
         <img id ="homeuplogo" class="logo" src="/img/{{ site.conf_year }}/conf-logo.png"> 
       </a>
-      <a class ="homeupcoming" href="/confs/{{ site.conf_year }}">
+      <div class ="homeupcoming">
+      <a href="/confs/{{ site.conf_year }}">
         <h2> UNIS-UN {{ site.conf_year }} </h2>
         <p> {{ site.data.[site.conf_year].info.title }}</p>
       </a>
+      </div>
 
     {% endif %}
 
