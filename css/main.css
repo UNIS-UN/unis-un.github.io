@@ -22,14 +22,14 @@ h2, h3, h4, h5, h6 {
 
 .mission {
   font-size: 20px;
-  font-weight: lighter;
+  font-weight: 200;
 }
 
 .visiting {
   font-size: 20px;
   color: #333;
   padding-bottom: 20px;
-  font-weight: lighter;
+  font-weight: 200;
   margin: 0;
   font-family: "lato",sans-serif;
   color: #555;
@@ -37,7 +37,7 @@ h2, h3, h4, h5, h6 {
 
 .hosting {
   font-size: 20px;
-  font-weight: lighter;
+  font-weight: 200;
 }
 
 .small {
