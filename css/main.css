@@ -25,6 +25,12 @@ h2, h3, h4, h5, h6 {
   font-weight: lighter;
 }
 
+.visiting {
+  font-size: 18px;
+  font-weight: lighter;
+  color: #333;
+}
+
 .small {
   font-size: 12px;
 }
