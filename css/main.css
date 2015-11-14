@@ -52,8 +52,9 @@ header{
  }
  
  .headerline {
-   display: inline-block;
-   margin: auto;
+   -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
   }
  
 /* Nav bar */
