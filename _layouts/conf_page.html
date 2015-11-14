@@ -20,8 +20,9 @@ layout: default
       {% for speaker in conf.speakers %}
         <li>
           <div class="speaker">
+            <a href="{{ speaker.bio_link }}">
             <img class="head" src="/img/{{ conf.info.year }}/speakers/{{ speaker.name_normal }}.jpg">
-            <h2> {{ speaker.name}} </h2>
+            <h2> {{ speaker.name }} </h2></a>
           </div>
         </li>
       {% endfor %}
