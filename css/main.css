@@ -217,8 +217,9 @@ nav ul ul ul {
     Mission Page
   ======================= */
 .mission {
-  padding: 20px;
-  font-size:20px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 /* ======================
