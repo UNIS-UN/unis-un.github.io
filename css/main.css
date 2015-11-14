@@ -9,11 +9,7 @@ body {
 /* ======================
     Font Stuff
   ======================= */
-
-p {
-  font-weight: 250;
-}
-
+  
 h1 {
   color: #4C8EB9;
   font-weight: 500;
@@ -25,7 +21,7 @@ h2, h3, h4, h5, h6 {
 }
 
 .mission {
-  font-weight: 250;
+  font-size: 28px;
 }
 
 .small {
