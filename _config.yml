@@ -2,13 +2,13 @@
 title: UNIS-UN
 url: http://www.unis-un.org
 email: info@unis-un.org
-description: "unis-un does stuff"
+description: "UNIS-UN  is an annual, international, student led conference held in the General Assembly on the United Nations"
 logo_url: http://www.unis-un.org/img/fb.png
 #Upcoming Conference year (Remember to use quotes)
 conf_year: "2016"
 
 #Settings
-show_tweets: false
+show_tweets: true
 show_sched: false
 live: false
 
