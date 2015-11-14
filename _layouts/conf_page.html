@@ -7,11 +7,9 @@ layout: default
 <h1>{{ page.title }}</h1>
   
 <div style="display:inline-block;">
-<div>
-  <h2> About </h2>
-  {{ content }}
-</div>
 <img class="logo logo_in_page" src="/img/{{ conf.info.year }}/conf-logo.png" {% if conf.info.logo_des %} title="{{ conf.info.logo_des }}" {% endif %}>
+<h2> About </h2>
+{{ content }}
 </div>
 
 {% if conf.speakers %}
