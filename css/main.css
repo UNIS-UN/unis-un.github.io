@@ -92,7 +92,6 @@ header{
   background: url(/img/generic-bg.png);
   background-size: cover;
   height: 300px;
-  position:fixed;
  }
 
 header .column { 
