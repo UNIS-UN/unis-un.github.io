@@ -3,6 +3,7 @@ body {
   background-color: #67AEE2;
   font-family: "lato", sans-serif;
   font-size: 14px;
+  font-weight: 200;
   color: #555;
 }
 
@@ -18,7 +19,7 @@ h1 {
 
 h2, h3, h4, h5, h6 {
   color: #333;
-  font-weight: 400;
+  font-weight: 300;
   /*font-family: "museo-slab", sans-serif;*/
 }
 
