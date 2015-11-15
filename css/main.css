@@ -380,6 +380,19 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
   background: #FFF
 }
+
+/* ======================
+    Organization Page
+  ======================= */
+
+.orgimg {
+  width:20px;
+}
+
+.orgtable {
+  background:#fff;
+}
+
 /* ======================
     Footer
   ======================= */
