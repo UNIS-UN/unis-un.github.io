@@ -306,10 +306,14 @@ header .wrap {
 }
 
 .left {
-  background: rgba(209,239,169,0.5);
+  background: rgba(204,204,204,0.5);
 }
 
-.left h1 p {
+.left h1 {
+  padding-left:15px;
+}
+
+.left p {
   padding-left:15px;
 }
 
