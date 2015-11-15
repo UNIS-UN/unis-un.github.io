@@ -34,26 +34,24 @@ title: Contact
     <p>(212) 963-4475</p>
     
     <div>
-    <ul>
-      {% if site.facebook_username %}<li>
-        <a target="_blank" href="https://facebook.com/{{ site.facebook_username }}">
+      {% if site.facebook_username %}
+        <p><a target="_blank" href="https://facebook.com/{{ site.facebook_username }}">
           <i class="icon fa fa-facebook"></i>
-          <span class="username"> {{ site.facebook_username }}</span>
+          <span class="username"> {{ site.facebook_username }}</span></p>
         </a>
-      </li>{% endif %}
-      {% if site.twitter_username %}<li>
-        <a target="_blank" href="https://twitter.com/{{ site.twitter_username }}">
+      {% endif %}
+      {% if site.twitter_username %}
+        <p><a target="_blank" href="https://twitter.com/{{ site.twitter_username }}">
           <i class="icon fa fa-twitter"></i>
-          <span class="username"> {{ site.twitter_username }}</span>
+          <span class="username"> {{ site.twitter_username }}</span></p>
         </a>
-      </li>{% endif %}
-      {% if site.insta_username %}<li>
-        <a target="_blank" href="http://instagram.com/{{ site.insta_username }}">
+      {% endif %}
+      {% if site.insta_username %}
+        <p><a target="_blank" href="http://instagram.com/{{ site.insta_username }}">
           <i class="fa fa-instagram"></i>
-          <span class="username"> {{ site.insta_username }}</span>
+          <span class="username"> {{ site.insta_username }}</span></p>
         </a>
-      </li>{% endif %}
-    </ul>
+      {% endif %}
   </div>
   </div>
 </div>
