@@ -32,24 +32,24 @@ title: Contact
     <h2>United Nations</h2>
     <p>405 East 42nd Street, New York, NY 10017</p>
     <p>(212) 963-4475</p>
-    
-    <div>
+    <br>
+    <div class="contactlinks">
       {% if site.facebook_username %}
-        <p><a target="_blank" href="https://facebook.com/{{ site.facebook_username }}">
+        <h2><a target="_blank" href="https://facebook.com/{{ site.facebook_username }}">
           <i class="icon fa fa-facebook"></i>
-          <span class="username"> {{ site.facebook_username }}</span></p>
+          <span class="username"> {{ site.facebook_username }}</span></h2>
         </a>
       {% endif %}
       {% if site.twitter_username %}
-        <p><a target="_blank" href="https://twitter.com/{{ site.twitter_username }}">
+        <h2><a target="_blank" href="https://twitter.com/{{ site.twitter_username }}">
           <i class="icon fa fa-twitter"></i>
-          <span class="username"> {{ site.twitter_username }}</span></p>
+          <span class="username"> {{ site.twitter_username }}</span></h2>
         </a>
       {% endif %}
       {% if site.insta_username %}
-        <p><a target="_blank" href="http://instagram.com/{{ site.insta_username }}">
+        <h2><a target="_blank" href="http://instagram.com/{{ site.insta_username }}">
           <i class="fa fa-instagram"></i>
-          <span class="username"> {{ site.insta_username }}</span></p>
+          <span class="username"> {{ site.insta_username }}</span></h2>
         </a>
       {% endif %}
   </div>
