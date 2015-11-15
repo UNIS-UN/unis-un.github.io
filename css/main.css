@@ -50,12 +50,17 @@ h2, h3, h4, h5, h6 {
 
 .contactlinks a {
   text-decoration: none;
+  color: #67AEE2;
 }
 
 .contctlinks a:hover {
   color: #333;
   text-decoration: none;
 }
+
+.contctlinks a:visited {
+  text-decoration: none;
+  color: #67AEE2;
 }
 
 a {
