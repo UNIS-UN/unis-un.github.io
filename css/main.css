@@ -313,8 +313,13 @@ header .wrap {
   padding-left:15px;
 }
 
+.left h2 {
+  padding-left:15px;
+}
+
 .left p {
   padding-left:15px;
+  padding-right:15px;
 }
 
 
