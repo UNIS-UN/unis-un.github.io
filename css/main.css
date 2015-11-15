@@ -12,23 +12,23 @@ body {
   
 h1 {
   color: #4C8EB9;
-  font-weight: 500;
+  font-weight: 300;
   /*font-family: "museo-slab", sans-serif;*/
 }
 
 h2, h3, h4, h5, h6 {
   color: #333;
-  font-weight: 500;
+  font-weight: 300;
   /*font-family: "museo-slab", sans-serif;*/
 }
 
 .mission {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 200;
 }
 
 .visiting {
-  font-size: 20px;
+  font-size: 18px;
   color: #333;
   padding-bottom: 20px;
   font-weight: 200;
@@ -38,7 +38,7 @@ h2, h3, h4, h5, h6 {
 }
 
 .hosting {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 200;
 }
 
