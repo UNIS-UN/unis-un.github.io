@@ -211,6 +211,10 @@ nav ul ul ul {
 /* ======================
     Main Page
   ======================= */
+.loader {
+  background:url('/img/loading.gif');
+}
+
 .page-content{
   background-color: #fff;
   margin-top: 20px;
