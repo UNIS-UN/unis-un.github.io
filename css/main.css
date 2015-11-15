@@ -389,8 +389,8 @@ tr:nth-child(odd) {
   height:30px;
 }
 
-#orgtable {
-  background:#fff;
+#orgtable tr {
+  background: #FFF;
 }
 
 /* ======================
