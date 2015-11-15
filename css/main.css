@@ -76,6 +76,13 @@ header{
   background-size: cover;
   height: 300px;
  }
+
+header .column { 
+  display: table-cell;
+  margin-bottom: 15px;
+  padding: 5px; 
+  width: 33%;
+}
  
 /* Nav bar */
 
@@ -403,7 +410,7 @@ footer .wrap {
   max-width: 800px;
   margin: 0 auto;
 }
-.column { 
+footer .column { 
   display: table-cell;
   margin-bottom: 15px;
   padding: 0 5px; 
