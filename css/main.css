@@ -306,8 +306,14 @@ header .wrap {
 }
 
 .left {
-  background: rgba(202,227,245,0.5);
+  background: rgba(209,239,169,0.5);
 }
+
+.left h1 p {
+  padding-left:15px;
+}
+
+
 .col_2 .right{
   float: left;
 }
