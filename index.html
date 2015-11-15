@@ -4,7 +4,7 @@ layout: default
 
 <div class="col_2">
     <div class="left">
-      <h1> Welcome to UNIS-UN </h1>
+      <h1> WELCOME TO UNIS-UN </h1>
       <p> Welcome to the UNIS-UN Website! Our goal as an organization is to provide an educationally and intellectually enriching experience for our peers from around the world while promoting globalism and cross-cultural exchange.</p>
 
       <p>We host an annual conference relating to a contemporary global issue. We invite expert and engaging speakers that are well versed on the topic who present to our audience of 700 high school students from International Schools from 5 continents. For the past 40 years it has been held in the General Assembly Hall at the United Nations Headquarters in New York City. </p>
@@ -17,13 +17,13 @@ layout: default
     <div class="right cur_conf">
     {%if site.show_tweets %}     
       
-      <h2> UNIS-UN Tweets </h2>
+      <h2>TWEETS</h2>
 
       <a class="twitter-timeline" href="https://twitter.com/unis_un" data-widget-id="557557787337957376">Tweets by @unis_un</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
     {% else %}
-      <h1>Upcoming Events</h1>
+      <h1>UPCOMING EVENTS</h1>
       <a href="/confs/{{ site.conf_year }}">
         <img id ="homeuplogo" class="logo" src="/img/{{ site.conf_year }}/conf-logo.png"> 
       </a>
@@ -44,7 +44,7 @@ layout: default
 <hr>
 
 <div class="schedule col_2">
-  <h1> Schedule </h1>
+  <h1>SCHEDULE</h1>
   <!-- Edit below -->
   <div class="left">
     <h2> Thursday 5<sup>th</sup> </h2>
@@ -118,7 +118,7 @@ layout: default
 
  <!-- Live Streem Section -->
 <div id="steam_sec">
-  <h1> Live Stream </h1>
+  <h1>LIVE STREAM</h1>
   <div class="stream">
     <!-- This is where the live stream embed link will go -->
 
@@ -132,7 +132,7 @@ layout: default
 {% endif %}
 
 <div class="speakers">
-  <h1> Speakers {{ site.conf_year}} </h1>
+  <h1>SPEAKERS {{ site.conf_year}} </h1>
   <ul>
     {% for speaker in site.data.[site.conf_year].speakers %}
       <li>
