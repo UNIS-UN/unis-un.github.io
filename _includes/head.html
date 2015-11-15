@@ -50,5 +50,25 @@
       ga('send', 'pageview');
 
     </script>
+    $(document).ready(function() {
+
+    $(window).bind("unload", function() {});
+    $(document.body).css("display", "none");
+
+    $(document.body).hide();
+
+    $(document.body).fadeIn(2000);
+
+    $(".header").click(function(event) {
+        event.preventDefault();
+        linkLocation = this.href;
+        $(document.body).fadeOut(700, redirectPage);
+    });
+
+    function redirectPage() {
+        window.location = linkLocation;
+    }
+
+});​
 
 </head>
