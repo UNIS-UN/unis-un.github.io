@@ -3,7 +3,7 @@ body {
   background-color: #67AEE2;
   font-family: "lato", sans-serif;
   font-size: 14px;
-  font-weight: 200;
+  font-weight: 250;
   color: #555;
 }
 
@@ -13,7 +13,7 @@ body {
   
 h1 {
   color: #4C8EB9;
-  font-weight: 400;
+  font-weight: 300;
   /*font-family: "museo-slab", sans-serif;*/
 }
 
@@ -25,14 +25,14 @@ h2, h3, h4, h5, h6 {
 
 .mission {
   font-size: 18px;
-  font-weight: 200;
+  font-weight: 250;
 }
 
 .visiting {
   font-size: 18px;
   color: #333;
   padding-bottom: 20px;
-  font-weight: 200;
+  font-weight: 250;
   margin: 0;
   font-family: "lato",sans-serif;
   color: #555;
@@ -40,7 +40,7 @@ h2, h3, h4, h5, h6 {
 
 .hosting {
   font-size: 18px;
-  font-weight: 200;
+  font-weight: 250;
 }
 
 .small {
