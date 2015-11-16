@@ -130,7 +130,7 @@ nav ul li:hover > ul {
 nav ul {
   padding: 0;
   list-style: none;
-  position: absolute;
+  position: relative;
   display: inline-table;
 }
 
@@ -154,7 +154,7 @@ nav ul li a {
 nav ul ul {
   border-radius: 0px; 
   padding: 0;
-  position: absolute; 
+  position: relative; 
   top: 100%;
 }
 nav ul ul li {
