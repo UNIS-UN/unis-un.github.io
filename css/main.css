@@ -130,7 +130,7 @@ nav ul li:hover > ul {
 nav ul {
   padding: 0;
   list-style: none;
-  position: relative;
+  position: absolute;
   display: inline-table;
 }
 
@@ -159,7 +159,7 @@ nav ul ul {
 }
 nav ul ul li {
   float: none; 
-  position: relative;
+  position: absolute;
 }
 
 
