@@ -154,12 +154,12 @@ nav ul li a {
 nav ul ul {
   border-radius: 0px; 
   padding: 0;
-  position: relative; 
+  position: absolute; 
   top: 100%;
 }
 nav ul ul li {
   float: none; 
-  position: absolute;
+  position: relative;
 }
 
 
