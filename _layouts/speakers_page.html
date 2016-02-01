@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% assign speakers = site.data.[page.year.speakers] %}
+
+<h1>{{ speaker.name }}</h1>
+  
+<div style="display:inline-block;">
+<img class="logo logo_in_page" src="/img/{{ conf.info.year }}/speakers/{{ speaker.name_normal }}.jpg" {% endif %}>
+
+<h2> Bio </h2>
+{{ content }}
+</div>
+
+{% endif %}
