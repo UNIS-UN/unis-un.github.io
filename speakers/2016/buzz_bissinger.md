@@ -1,6 +1,7 @@
 --- 
 layout: speakers_page
 title: Buss Bissinger 
+year: 2016
 ---
 
 <p> Harry Gerard "H. G." Bissinger III, also known as Buzz Bissinger, is an acclaimed, award winning American journalist and author.
