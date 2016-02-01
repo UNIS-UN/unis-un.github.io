@@ -136,7 +136,7 @@ layout: default
     {% for speaker in site.data.[site.conf_year].speakers %}
       <li>
         <div class="speaker">
-        <a target ="_blank" href="{{ speaker.bio_link }}">
+        <a href="{{ speaker.bio_link }}">
           <img class="head" src="/img/{{ site.conf_year }}/speakers/{{ speaker.name_normal }}.jpg">
           <h2> {{ speaker.name}} </h2>
          </a>
