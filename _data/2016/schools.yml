@@ -1,10 +1,9 @@
--  flag: be
-   country: Belgium
+-  flag: uk
+   country: United Kingdom
    schools:
-      - "European School Mol"
-      - "European School of Brussels 3"
+      - "Mulberry School for Girls"
 
--  flag: cl
+-  flag: pe
    country: Chile
    schools:
    - "Santiago College"
