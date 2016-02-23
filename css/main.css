@@ -412,7 +412,7 @@ table {
   border-spacing: 0;
 }
 tr:nth-child(even) {
-  background: #CCC
+  background: #e0e0e0
 }
 tr:nth-child(odd) {
   background: #FFF
