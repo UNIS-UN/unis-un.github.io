@@ -1,8 +1,8 @@
 -  flag: es
-  country: Spain
-  schools:
-  - "Frederic Mistral Tècnic Eulàlia"
-  - "Sek Alborán"
+    country: Spain
+    schools:
+    - "Frederic Mistral Tècnic Eulàlia"
+    - "Sek Alborán"
   
 - flag: be
   country:  Belgium
