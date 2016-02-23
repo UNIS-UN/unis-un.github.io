@@ -1,8 +1,8 @@
 -  flag: be
    country: Belgium
    schools:
-   - "European School Mol"
-   - "European School of Brussels 3"
+      - "European School Mol"
+      - "European School of Brussels 3"
 
 -  flag: cl
    country: Chile
