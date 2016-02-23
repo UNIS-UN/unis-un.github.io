@@ -91,7 +91,7 @@
    - "Martin Luther School"
    - "Community School of Naples"
 
--  flag: no
+-  flag: 'no'
    country:  Norway
    schools:
    - "Oslo katedralskole"
