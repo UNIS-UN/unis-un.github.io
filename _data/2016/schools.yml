@@ -1,107 +1,95 @@
+-  flag: be
+   country: Belgium
+   schools:
+      - "European School Mol"
+      - "European School of Brussels 3"
+
+-  flag: cl
+   country: Chile
+   schools:
+   - "Santiago College"
+
+-  flag: ch
+   country:  Switzerland
+   schools:
+   - "Institut Florimont"
+
+-  flag: cn
+   country: China
+   schools:
+   - "Chengdu Huaying Consulting & Service Co., Ltd."
+   - "Huanggang Middle School Guangzhou Campus"
+   - "Shanghai Foreign Language School Affiliated to SISU"
+   - "Shanghai No.1 Experimental School Affiliated To SISU"
+
+-  flag: de
+   country: Germany
+   schools:
+   - "Nelson Mandela School / State International School Berlin"
+   - "AKG Bensheim"
+   - "Alfred-Wegener-Schule"
+   - "Galileo Gymnasium"
+   - "Phorms School"
+
+-  flag: dk
+   country: Denmark
+   schools:
+   - "Birkerod Gymnasium"
+   - " HF & IB"
+
 -  flag: es
-    country: Spain
-    schools:
-    - "Frederic Mistral Tècnic Eulàlia"
-    - "Sek Alborán"
-  
-- flag: be
-  country:  Belgium
-  schools:
-  - "European School Mol"
-  - "European School of Brussels 3"
+   country: Spain
+   schools:
+   - "Frederic Mistral Tècnic Eulàlia"
 
-- flag: jp
-  country: Japan
-  schools:
-  - "Yamate Gakuin High School"
-  - "Joho High School"
-  - "Yokohama Higashi High School"
-  - "Yokohama Syogyo High School"
-  
-- flag: cn
-  country: China
-  schools:
-  - "The Experimental High School Attached to Beijing Normal University"
-  - "No.1 Senior High School of Pu'er City"
-  
-- flag: cl
-  country: Chile
-  schools:
-  - "Santiago College"
-  
-- flag: de
-  country: Germany
-  schools:
-  - "Berlin Brandenburg International School"
-  - "AKG Bensheim"
-  - "Nelson Mandela School / State International School Berlin"
-  - "Phorms Gymnasium Berlin (Mitte und Süd)"
+-  flag: et
+   country:  Ethiopia
+   schools:
+   - "International Community School Addis Ababa"
 
-- flag: in
-  country: India
-  schools:
-  - "The Cathedral & John Connon School"
-  
-- flag: fi
-  country: Finland
-  schools:
-  - "Helsingin Suomalainen Yhteiskoulu"
+-  flag: fi
+   country:  Finland
+   schools:
+   - "Helsingin Suomalainen Yhteiskoulu"
 
-- flag: pr
-  country: Puerto Rico
-  schools:
-  - "Nuestra Escuela"
-  - "Caribbean School"
-  
-- flag: scopia
-  country: Macedonia
-  schools:
-  - "NOVA International Schools"
+-  flag: in
+   country:  India
+   schools:
+   - "The Cathedral & John Connon School"
 
-- flag: ch
-  country: Switzerland
-  schools:
-  - "Institut Florimont"
+-  flag: jp
+   country:  Japan
+   schools:
+   - "Kagoshima Joho"
+   - "Yokohama Higashi High School"
+   - "Haguro High School"
+   - "Yokohama Shogyo High School"
+   - "Yamate Gakuin High School"
 
-- flag: uk
-  country: United Kingdom
-  schools:
-  - "Mulberry School for Girls"
- 
-- flag: pe
-  country: Peru
-  schools:
-  - "Colegio Roosevelt - The American School of Lima"
+-  flag: pr
+   country:  Puerto Rico
+   schools:
+   - "Nuestra Escuela"
+   - "Commonwealth-Parkville School"
 
-- flag: bm
-  country: Bermuda
-  schools:
-  - "Warwick Academy"
-  - "Bermuda High School"
-  
-- flag: no
-  country: Norway
-  schools:
-  - "Oslo katedralskole"
+-  flag: us
+   country:  USA
+   schools:
+   - "Hunter College High School"
+   - "French American International School"
+   - "RAZI School"
+   - "Avenues:  The World School"
+   - "The Calhoun School"
+   - "High School of Economics & Finance"
+   - "High School for Environmental Studies"
+   - "High School for Environmental Studies"
+   - "Garden School"
+   - "Bronx High Schol of Science"
+   - "Brooklyn Prospect Charter School"
+   - "NYC Lab School"
 
-- flag: sv
-  country: El Salvador
-  schools:
-  - "Academia Británica Cuscatleca"
+-  flag: uk
+   country:  United Kingdom 
+   schools:
+   - "Mulberry School for Girls"
 
-- flag: us
-  country: USA
-  schools:
-  - "French American International School"
-  - "UWC-USA"
-  - "RAZI School"
-  - "Harlem Village Academies"
-  - "Weston High School"
-  - "Richard Montgomery High School"
-  - "Newark Collegiate Academy"
-  - "Cardinal Spellman High School"
-  - "Matènwa Community Learning Center"
-  - "Brooklyn Friends School"
-  - "The Packer Collegiate Institute"
-  - "Martin Luther School"
-  - "Community School of Naples"
