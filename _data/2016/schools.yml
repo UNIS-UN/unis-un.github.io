@@ -4,91 +4,100 @@
       - "Mulberry School for Girls"
 
 -  flag: pe
-   country: Chile
+   country: Peru
    schools:
-   - "Santiago College"
+   - "Colegio Roosevelt - The American School of Lima"
 
--  flag: ch
-   country:  Switzerland
+-  flag: bm
+   country:  Bermuda
    schools:
-   - "Institut Florimont"
-
--  flag: cn
-   country: China
-   schools:
-   - "Chengdu Huaying Consulting & Service Co., Ltd."
-   - "Huanggang Middle School Guangzhou Campus"
-   - "Shanghai Foreign Language School Affiliated to SISU"
-   - "Shanghai No.1 Experimental School Affiliated To SISU"
-
--  flag: de
-   country: Germany
-   schools:
-   - "Nelson Mandela School / State International School Berlin"
-   - "AKG Bensheim"
-   - "Alfred-Wegener-Schule"
-   - "Galileo Gymnasium"
-   - "Phorms School"
-
--  flag: dk
-   country: Denmark
-   schools:
-   - "Birkerod Gymnasium"
-   - " HF & IB"
+   - "Bermuda High School"
+   - "Warwick Academy"
 
 -  flag: es
    country: Spain
    schools:
    - "Frederic Mistral Tècnic Eulàlia"
+   - "Sek Alborán"
 
--  flag: et
-   country:  Ethiopia
+-  flag: be
+   country: Belgium
    schools:
-   - "International Community School Addis Ababa"
+   - "European School Mol"
+   - "European School of Brussels 3"
 
--  flag: fi
-   country:  Finland
+-  flag: jp
+   country: Japan
    schools:
-   - "Helsingin Suomalainen Yhteiskoulu"
+   - "Yamate Gakuin High School"
+   - "Joho High School"
+   - "Yokohama Higashi High School"
+   - "Yokohama Syogyo High School"
+
+-  flag: cn
+   country: China
+   schools:
+   - "The Experimental High School Attached to Beijing Normal University"
+   - "No.1 Senior High School of Pu'er City"
+
+-  flag: cl
+   country:  Chile
+   schools:
+   - "Santiago College"
+
+-  flag: de
+   country:  Germany
+   schools:
+   - "Berlin Brandenburg International School"
+   - "AKG Bensheim"
+   - "Nelson Mandela School / State International School Berlin"
+   - "Phorms Gymnasium Berlin (Mitte und Süd)"
 
 -  flag: in
    country:  India
    schools:
    - "The Cathedral & John Connon School"
 
--  flag: jp
-   country:  Japan
+-  flag: fi
+   country:  Finland
    schools:
-   - "Kagoshima Joho"
-   - "Yokohama Higashi High School"
-   - "Haguro High School"
-   - "Yokohama Shogyo High School"
-   - "Yamate Gakuin High School"
+   - "Helsingin Suomalainen Yhteiskoulu"
 
 -  flag: pr
    country:  Puerto Rico
    schools:
    - "Nuestra Escuela"
-   - "Commonwealth-Parkville School"
+   - "Caribbean School"
+   
+-  flag: scopia
+   country:  Macedonia
+   schools:
+   - "NOVA International Schools"
 
 -  flag: us
    country:  USA
    schools:
-   - "Hunter College High School"
    - "French American International School"
+   - "UWC-USA"
    - "RAZI School"
-   - "Avenues:  The World School"
-   - "The Calhoun School"
-   - "High School of Economics & Finance"
-   - "High School for Environmental Studies"
-   - "High School for Environmental Studies"
-   - "Garden School"
-   - "Bronx High Schol of Science"
-   - "Brooklyn Prospect Charter School"
-   - "NYC Lab School"
+   - "Harlem Village Academies"
+   - "Weston High School"
+   - "Richard Montgomery High School"
+   - "Newark Collegiate Academy"
+   - "Cardinal Spellman High School"
+   - "Matènwa Community Learning Center"
+   - "Brooklyn Friends School"
+   - "The Packer Collegiate Institute"
+   - "Martin Luther School"
+   - "Community School of Naples"
 
--  flag: uk
-   country:  United Kingdom 
+-  flag: no
+   country:  Norway
    schools:
-   - "Mulberry School for Girls"
+   - "Oslo katedralskole"
+
+-  flag: sv
+   country:  El Salvador
+   schools:
+   - "Academia Británica Cuscatleca"
 
