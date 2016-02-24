@@ -298,7 +298,7 @@ header .wrap {
   ======================= */
 .col_2 div {
   max-width: 600px;
-  width: 70%;
+  width: 100%;
   min-width: 200px;
 }
 .col_2 .left{
