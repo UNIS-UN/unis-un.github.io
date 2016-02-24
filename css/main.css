@@ -396,6 +396,11 @@ header .wrap {
 .schedule h2{
   margin: 0;
 }
+
+.unfcu {
+  width: 20px;
+}
+
 /* ======================
     Table
   ======================= */
