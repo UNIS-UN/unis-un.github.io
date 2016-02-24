@@ -398,7 +398,10 @@ header .wrap {
 }
 
 .unfcu {
-  width: 20px;
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* ======================
