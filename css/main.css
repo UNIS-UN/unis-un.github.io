@@ -297,12 +297,12 @@ header .wrap {
     Main page 2 col
   ======================= */
 .col_2 div {
-  max-width: 400px;
-  width: 100%;
+  max-width: 500px;
+  width: 70%;
   min-width: 200px;
 }
 .col_2 .left{
-  float: left
+  float: center
 }
 
 .left {
@@ -324,7 +324,7 @@ header .wrap {
 
 
 .col_2 .right{
-  float: left;
+  float: center;
 }
 
 /* Upcoming Events */
