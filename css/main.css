@@ -393,6 +393,11 @@ header .wrap {
 .schedule b {
   color: #4C8EB9;
 }
+
+.schedule {
+  background: white;
+}
+
 .schedule h2{
   margin: 0;
 }
