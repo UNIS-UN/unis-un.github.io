@@ -394,8 +394,9 @@ header .wrap {
   color: #4C8EB9;
 }
 
-.schedule {
-  background: white;
+
+.schedule tr {
+  background: rgb(255,255,255);
 }
 
 .schedule h2{
