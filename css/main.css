@@ -300,6 +300,7 @@ header .wrap {
   max-width: 600px;
   width: 100%;
   min-width: 200px;
+  background: rgb(255,255,255);
 }
 .col_2 .left{
   float: left
@@ -395,7 +396,11 @@ header .wrap {
 }
 
 
-.schedule tr {
+.schedule tr:nth-child(odd) {
+  background: rgb(255,255,255);
+}
+
+.schedule tr:nth-child(even) {
   background: rgb(255,255,255);
 }
 
@@ -426,10 +431,10 @@ table {
   border-spacing: 0;
 }
 tr:nth-child(even) {
-  background: rgba(204,204,204,0.2)
+  background: rgba(204,204,204,0.2);
 }
 tr:nth-child(odd) {
-  background: #FFF
+  background: #FFF;
 }
 
 /* ======================
