@@ -10,7 +10,7 @@ conf_year: "2016"
 #Settings
 show_tweets: false
 show_sched: true
-live: true
+live: false
 
 # Social media
 twitter_username: unis_un
