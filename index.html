@@ -140,18 +140,22 @@ layout: default
 
  <!-- Live Streem Section -->
 <div id="steam_sec">
-  <h1>March 2016 Conference</h1>
-     <a href="/confs/{{ site.conf_year }}">
-            <img id ="homeuplogo" class="logo" src="/img/{{ site.conf_year }}/conf-logo.png"> 
-          </a>
-          <div class ="homeupcoming">
-          <a href="/confs/{{ site.conf_year }}">
-            <h2> UNIS-UN {{ site.conf_year }} </h2>
-            <p> {{ site.data.[site.conf_year].info.title }}</p>
-          </a>
-    <h1>2016 Conference Live Stream</h1>
-   <h3><a target = "_blank" href = "http://webtv.un.org/watch/part-1-2016-unis-un-conference-2016-medias-influence-opinions-activism-outcomes/4784882548001">Click here to watch the 2016 UNIS-UN Conference</a></h3>
-  <hr>
+<div class="col_2">
+  <div class="left">
+      <h1>March 2016 Conference</h1>
+         <a href="/confs/{{ site.conf_year }}">
+                <img id ="homeuplogo" class="logo" src="/img/{{ site.conf_year }}/conf-logo.png"> 
+         </a>
+         <div class ="homeupcoming">
+              <a href="/confs/{{ site.conf_year }}">
+                <h2> UNIS-UN {{ site.conf_year }} </h2>
+                <p> {{ site.data.[site.conf_year].info.title }}</p>
+                </a>
+            <h1>2016 Conference Live Stream</h1>
+            <h3><a target = "_blank" href = "http://webtv.un.org/watch/part-1-2016-unis-un-conference-2016-medias-influence-opinions-activism-outcomes/4784882548001">Click here to watch the 2016 UNIS-UN Conference</a></h3>
+        </div>
+    </div>
+    </div>
 </div>
 
 {% endif %}
