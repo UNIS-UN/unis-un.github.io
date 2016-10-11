@@ -22,15 +22,9 @@ layout: default
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
     {% else %}
-      <h1>PAST EVENTS</h1>
-      <a href="/confs/{{ site.conf_year }}">
-        <img id ="homeuplogo" class="logo" src="/img/{{ site.conf_year }}/conf-logo.png"> 
-      </a>
-      <div class ="homeupcoming">
-      <a href="/confs/{{ site.conf_year }}">
-        <h2> UNIS-UN {{ site.conf_year }} </h2>
-        <p> {{ site.data.[site.conf_year].info.title }}</p>
-      </a>
+      <h1>UPCOMING EVENTS</h1>
+        <h2>Migration: Crossing the Line</h2>
+        <p>Your Executive Committee is excited to announce that this year's conference will be titled Migration: Crossing the Line! We will examine varying perspectives on the issues surrounding migration: the causes, individual experiences as well as the political and humanitarian responses to migration. While we may not find express answers to these issues, we hope to lead a discussion that can result in a deeper understanding of global migration. Stay tuned for more updates!</p>
       </div>
 
     {% endif %}
@@ -146,13 +140,15 @@ layout: default
 
  <!-- Live Streem Section -->
 <div id="steam_sec">
-  <h1>2017 Upcoming Conference</h1>
-    <p>Your Executive Committee is excited to announce that this year's conference will be titled Migration: Crossing the Line! We will examine varying perspectives on the issues surrounding migration: the causes, individual experiences as well as the political and humanitarian responses to migration. While we may not find express answers to these issues, we hope to lead a discussion that can result in a deeper understanding of global migration. Stay tuned for more updates!</p>
-  <!--<div class="stream">
-    This is where the live stream embed link will go
-    <iframe frameborder="0" width="480" height="270" scrolling="no" src="https://link.brightcove.com/services/player/bcpid1722935254001/?bctid=2490774073001&autoStart=false&secureConnections=true&width=480&height=270" ></iframe>
-    Dont touch anything below this 
-  </div>-->
+  <h1>March 2016 Conference</h1>
+     <a href="/confs/{{ site.conf_year }}">
+            <img id ="homeuplogo" class="logo" src="/img/{{ site.conf_year }}/conf-logo.png"> 
+          </a>
+          <div class ="homeupcoming">
+          <a href="/confs/{{ site.conf_year }}">
+            <h2> UNIS-UN {{ site.conf_year }} </h2>
+            <p> {{ site.data.[site.conf_year].info.title }}</p>
+          </a>
     <h1>2016 Conference Live Stream</h1>
    <h3><a target = "_blank" href = "http://webtv.un.org/watch/part-1-2016-unis-un-conference-2016-medias-influence-opinions-activism-outcomes/4784882548001">Click here to watch the 2016 UNIS-UN Conference</a></h3>
   <hr>
