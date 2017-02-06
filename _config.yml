@@ -10,6 +10,7 @@ conf_year: "2017"
 #Settings
 show_tweets: false
 show_sched: false
+show_workingpaper: false
 live: false
 
 # Social media
