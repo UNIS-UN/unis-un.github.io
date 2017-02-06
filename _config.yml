@@ -10,7 +10,7 @@ conf_year: "2017"
 #Settings
 show_tweets: false
 show_sched: false
-live: true
+live: false
 
 # Social media
 twitter_username: unis_un
@@ -20,5 +20,3 @@ insta_username: unisun_nyc
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-
