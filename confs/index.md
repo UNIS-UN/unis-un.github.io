@@ -8,7 +8,7 @@ title: Conferences
 
 {{ conf.info.year }} {{ conf.info.title }} 
  	
-<img class="logo logo_in_list" src="/img/{{ conf.info.year }}/conf_logo.jpg">
+<img class="logo logo_in_list" src="/img/{{ conf.info.year }}/conf-logo.png">
  	
 {{ conf.dest.long }}
 
