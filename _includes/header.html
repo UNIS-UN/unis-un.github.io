@@ -14,7 +14,7 @@
         <li>
           <a href="/confs/">CONFERENCES</a>
           <ul>
-            {% for year in site.data.confs limit:3 %}
+            {% for year in site.data.confs limit:4 %}
               <li>
                 <a href="/confs/{{ year }}">{{ site.data.[year].info.year }}</a>
               </li>
