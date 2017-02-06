@@ -1,24 +1,20 @@
 -  flag: uk
    country: United Kingdom
    schools:
-      - "Mulberry School for Girls"
-
--  flag: pe
-   country: Peru
-   schools:
-   - "Colegio Roosevelt - The American School of Lima"
+      - "Summerhill School"
+      - "Lycée International de Londres Winston Churchill"
 
 -  flag: bm
    country:  Bermuda
    schools:
-   - "Bermuda High School"
+   - "Saltus Grammar School"
    - "Warwick Academy"
 
 -  flag: es
    country: Spain
    schools:
    - "Frederic Mistral Tècnic Eulàlia"
-   - "Sek Alborán"
+   - "Sek Alborán International School"
 
 -  flag: be
    country: Belgium
@@ -29,16 +25,16 @@
 -  flag: jp
    country: Japan
    schools:
-   - "Yamate Gakuin High School"
-   - "Joho High School"
+   - "Yokohama Shogyo High School"
+   - "Futaba Future High School"
    - "Yokohama Higashi High School"
-   - "Yokohama Syogyo High School"
+   - "Haguro High School"
 
 -  flag: cn
    country: China
    schools:
-   - "The Experimental High School Attached to Beijing Normal University"
-   - "No.1 Senior High School of Pu'er City"
+   - "Shanghai Foreign Language School Affiliated To SISU"
+   - "Shanghai No.1 Experimental School Affiliated To SISU"
 
 -  flag: cl
    country:  Chile
@@ -49,14 +45,9 @@
    country:  Germany
    schools:
    - "Berlin Brandenburg International School"
-   - "AKG Bensheim"
-   - "Nelson Mandela School / State International School Berlin"
-   - "Phorms Gymnasium Berlin (Mitte und Süd)"
-
--  flag: in
-   country:  India
-   schools:
-   - "The Cathedral & John Connon School"
+   - "Galileo Gymnasium"
+   - "Alfred-Wegener-Schule"
+   - "Phorms Berlin"
 
 -  flag: fi
    country:  Finland
@@ -78,25 +69,55 @@
    country:  USA
    schools:
    - "French American International School"
-   - "UWC-USA"
    - "RAZI School"
-   - "Harlem Village Academies"
-   - "Weston High School"
    - "Richard Montgomery High School"
    - "Newark Collegiate Academy"
-   - "Cardinal Spellman High School"
-   - "Matènwa Community Learning Center"
    - "Brooklyn Friends School"
-   - "The Packer Collegiate Institute"
-   - "Martin Luther School"
    - "Community School of Naples"
+   - "Hunter College High School"
+   - "The Bronx High School of Science"
 
 -  flag: 'no'
    country:  Norway
    schools:
-   - "Oslo katedralskole"
-
--  flag: sv
-   country:  El Salvador
+   - "Blindern Videregående Skole"
+   
+-  flag: 'gn'
+   country:  Ghana
    schools:
-   - "Academia Británica Cuscatleca"
+   - "St. Augustine's College"
+
+-  flag: 'ng'
+   country:  Nigeria
+   schools:
+   - "Greensprings School"
+   
+-  flag: 'au'
+   country:  Australia
+   schools:
+   - "Northern Beaches Christian School"
+
+-  flag: 'cr'
+   country:  Costa Rica
+   schools:
+   - "Pan-American School"
+
+-  flag: 'sz'
+   country:  Switzerland
+   schools:
+   - "Institut Florimont"
+
+-  flag: 'fr'
+   country:  France
+   schools:
+   - "Lycée du Coudon"
+   
+-  flag: 'mx'
+   country:  Mexico
+   schools:
+   - "Colegio Carol Baur and Fundacion Cultural Baur"
+   
+-  flag: 'ag'
+   country:  Argetina
+   schools:
+   - "Instituto Lange Ley"
