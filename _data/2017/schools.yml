@@ -1,1 +1,102 @@
-asdfg
+-  flag: uk
+   country: United Kingdom
+   schools:
+      - "Mulberry School for Girls"
+
+-  flag: pe
+   country: Peru
+   schools:
+   - "Colegio Roosevelt - The American School of Lima"
+
+-  flag: bm
+   country:  Bermuda
+   schools:
+   - "Bermuda High School"
+   - "Warwick Academy"
+
+-  flag: es
+   country: Spain
+   schools:
+   - "Frederic Mistral Tècnic Eulàlia"
+   - "Sek Alborán"
+
+-  flag: be
+   country: Belgium
+   schools:
+   - "European School Mol"
+   - "European School of Brussels 3"
+
+-  flag: jp
+   country: Japan
+   schools:
+   - "Yamate Gakuin High School"
+   - "Joho High School"
+   - "Yokohama Higashi High School"
+   - "Yokohama Syogyo High School"
+
+-  flag: cn
+   country: China
+   schools:
+   - "The Experimental High School Attached to Beijing Normal University"
+   - "No.1 Senior High School of Pu'er City"
+
+-  flag: cl
+   country:  Chile
+   schools:
+   - "Santiago College"
+
+-  flag: de
+   country:  Germany
+   schools:
+   - "Berlin Brandenburg International School"
+   - "AKG Bensheim"
+   - "Nelson Mandela School / State International School Berlin"
+   - "Phorms Gymnasium Berlin (Mitte und Süd)"
+
+-  flag: in
+   country:  India
+   schools:
+   - "The Cathedral & John Connon School"
+
+-  flag: fi
+   country:  Finland
+   schools:
+   - "Helsingin Suomalainen Yhteiskoulu"
+
+-  flag: pr
+   country:  Puerto Rico
+   schools:
+   - "Nuestra Escuela"
+   - "Caribbean School"
+   
+-  flag: scopia
+   country:  Macedonia
+   schools:
+   - "NOVA International Schools"
+
+-  flag: us
+   country:  USA
+   schools:
+   - "French American International School"
+   - "UWC-USA"
+   - "RAZI School"
+   - "Harlem Village Academies"
+   - "Weston High School"
+   - "Richard Montgomery High School"
+   - "Newark Collegiate Academy"
+   - "Cardinal Spellman High School"
+   - "Matènwa Community Learning Center"
+   - "Brooklyn Friends School"
+   - "The Packer Collegiate Institute"
+   - "Martin Luther School"
+   - "Community School of Naples"
+
+-  flag: 'no'
+   country:  Norway
+   schools:
+   - "Oslo katedralskole"
+
+-  flag: sv
+   country:  El Salvador
+   schools:
+   - "Academia Británica Cuscatleca"
