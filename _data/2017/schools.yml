@@ -50,6 +50,8 @@
    - "Galileo Gymnasium"
    - "Alfred-Wegener-Schule"
    - "Phorms Berlin"
+   - "Nelson Mandela School"
+   - "Altes Kurfuerstliches Gymnasium"
 
 -  flag: fi
    country:  Finland
@@ -63,7 +65,7 @@
    - "Caribbean School"
    
 -  flag: scopia
-   country:  Macedonia
+   country:  FYR Macedonia
    schools:
    - "NOVA International Schools"
 
