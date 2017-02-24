@@ -91,6 +91,7 @@ header{
 .header {
   background: url(/img/generic-bg.png);
   background-size: cover;
+  background-repeat:repeat-x;
   height: 300px;
  }
 
