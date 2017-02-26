@@ -454,7 +454,7 @@ tr:nth-child(odd) {
   background: #FFF;
 }
 
-#articles tr {
+.articlestable tr {
   background: #FFF;
 }
 
