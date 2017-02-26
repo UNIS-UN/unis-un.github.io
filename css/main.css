@@ -442,6 +442,12 @@ table {
   background: #FFF;
 }
 
+.articlestable img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
 /* ======================
     Organization Page
   ======================= */
