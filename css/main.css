@@ -435,10 +435,10 @@ td {
 table {
   border-spacing: 0;
 }
-tr:nth-child(even) {
+#visiting_schools tr:nth-child(even) {
   background: rgba(204,204,204,0.2);
 }
-tr:nth-child(odd) {
+#visiting_schools tr:nth-child(odd) {
   background: #FFF;
 }
 
@@ -454,7 +454,7 @@ tr:nth-child(odd) {
   background: #FFF;
 }
 
-.articlestable tr {
+tr {
   background: #FFF;
 }
 
