@@ -8,15 +8,15 @@ logo_url: http://www.unis-un.org/img/fb.png
 conf_year: "2017"
 
 #Settings
-show_tweets: true
+show_tweets: false
 show_sched: true
 show_workingpaper: true
 live: true
 
 # Social media
-twitter_username: unis_un
 facebook_username: unisunconf
 insta_username: unisun_nyc
+snapchat_username: unisun_nyc
 
 # Build settings
 markdown: kramdown
