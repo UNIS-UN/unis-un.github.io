@@ -9,6 +9,8 @@
    schools:
    - "Saltus Grammar School"
    - "Warwick Academy"
+   - "CedarBridge Academy"
+   - "Bermuda High School"
 
 -  flag: es
    country: Spain
@@ -50,6 +52,8 @@
    - "Galileo Gymnasium"
    - "Alfred-Wegener-Schule"
    - "Phorms Berlin"
+   - "Nelson Mandela School"
+   - "Altes Kurfuerstliches Gymnasium"
 
 -  flag: fi
    country:  Finland
@@ -63,7 +67,7 @@
    - "Caribbean School"
    
 -  flag: scopia
-   country:  Macedonia
+   country:  Former Yugoslav Republic of Macedonia
    schools:
    - "NOVA International Schools"
 

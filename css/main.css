@@ -79,6 +79,10 @@ hr {
   height: 0;
 }
 
+#tableofcontents a {
+  color: #555;
+}
+
 /* ======================
     Header
   ======================= */
@@ -91,6 +95,7 @@ header{
 .header {
   background: url(/img/generic-bg.png);
   background-size: cover;
+  background-repeat:repeat-x;
   height: 300px;
  }
 
@@ -434,11 +439,17 @@ td {
 table {
   border-spacing: 0;
 }
-tr:nth-child(even) {
+#visiting_schools tr:nth-child(even) {
   background: rgba(204,204,204,0.2);
 }
-tr:nth-child(odd) {
+#visiting_schools tr:nth-child(odd) {
   background: #FFF;
+}
+
+.articlestable img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
 }
 
 /* ======================
@@ -450,6 +461,10 @@ tr:nth-child(odd) {
 }
 
 #orgtable tr {
+  background: #FFF;
+}
+
+tr {
   background: #FFF;
 }
 
