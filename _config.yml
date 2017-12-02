@@ -21,3 +21,7 @@ snapchat_username: unisun_nyc
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Jekyll plugins
+gems:
+  - jekyll-redirect-from
