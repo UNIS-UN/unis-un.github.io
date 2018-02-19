@@ -5,3 +5,15 @@
 - name: Clay Shirky
   name_normal: clay_shirky
   bio_link: https://en.wikipedia.org/wiki/Clay_Shirky
+  
+- name: Andrew Brust
+  name_normal: andrew_brust
+  bio_link: http://www.zdnet.com/meet-the-team/us/andrew-brust/
+
+- name: Tsvi Gal
+  name_normal: tsvi_gal
+  bio_link: https://www.crunchbase.com/person/tsvi-gal
+  
+  - name: Federico Rampini
+  name_normal: federico_rampini
+  bio_link: https://it.wikipedia.org/wiki/Federico_Rampini
