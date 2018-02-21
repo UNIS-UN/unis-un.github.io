@@ -1,0 +1,129 @@
+-  flag: uk
+   country: United Kingdom
+   schools:
+      - "Summerhill School"
+      - "Lycée International de Londres Winston Churchill"
+
+-  flag: bm
+   country:  Bermuda
+   schools:
+   - "Saltus Grammar School"
+   - "Warwick Academy"
+   - "CedarBridge Academy"
+   - "Bermuda High School"
+
+-  flag: es
+   country: Spain
+   schools:
+   - "Frederic Mistral Tècnic Eulàlia"
+   - "Sek Alborán International School"
+
+-  flag: be
+   country: Belgium
+   schools:
+   - "European School Mol"
+   - "European School of Brussels 3"
+
+-  flag: jp
+   country: Japan
+   schools:
+   - "Yokohama Shogyo High School"
+   - "Futaba Future High School"
+   - "Yokohama Higashi High School"
+   - "Haguro High School"
+   - "Joho High School"
+   - "Yamate Gakuin High School"
+
+-  flag: cn
+   country: China
+   schools:
+   - "Shanghai Foreign Language School Affiliated To SISU"
+   - "Shanghai No.1 Experimental School Affiliated To SISU"
+
+-  flag: cl
+   country:  Chile
+   schools:
+   - "Santiago College"
+
+-  flag: de
+   country:  Germany
+   schools:
+   - "Berlin Brandenburg International School"
+   - "Galileo Gymnasium"
+   - "Alfred-Wegener-Schule"
+   - "Phorms Berlin"
+   - "Nelson Mandela School"
+   - "Altes Kurfuerstliches Gymnasium"
+
+-  flag: fi
+   country:  Finland
+   schools:
+   - "Helsingin Suomalainen Yhteiskoulu"
+
+-  flag: pr
+   country:  Puerto Rico
+   schools:
+   - "Nuestra Escuela"
+   - "Caribbean School"
+   
+-  flag: scopia
+   country:  Former Yugoslav Republic of Macedonia
+   schools:
+   - "NOVA International Schools"
+
+-  flag: us
+   country:  USA
+   schools:
+   - "French American International School"
+   - "RAZI School"
+   - "Richard Montgomery High School"
+   - "Newark Collegiate Academy"
+   - "Brooklyn Friends School"
+   - "Community School of Naples"
+   - "Hunter College High School"
+   - "The Bronx High School of Science"
+
+-  flag: 'no'
+   country:  Norway
+   schools:
+   - "Blindern Videregående Skole"
+   
+-  flag: 'gn'
+   country:  Ghana
+   schools:
+   - "St. Augustine's College"
+
+-  flag: 'ng'
+   country:  Nigeria
+   schools:
+   - "Greensprings School"
+   
+-  flag: 'au'
+   country:  Australia
+   schools:
+   - "Northern Beaches Christian School"
+
+-  flag: 'cr'
+   country:  Costa Rica
+   schools:
+   - "Pan-American School"
+
+-  flag: 'ch'
+   country:  Switzerland
+   schools:
+   - "Institut Florimont"
+
+-  flag: 'fr'
+   country:  France
+   schools:
+   - "Lycée du Coudon"
+   
+-  flag: 'mx'
+   country:  Mexico
+   schools:
+   - "Colegio Carol Baur and Fundacion Cultural Baur"
+   
+-  flag: 'ar'
+   country:  Argetina
+   schools:
+   - "Instituto Lange Ley"
