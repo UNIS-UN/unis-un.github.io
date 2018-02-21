@@ -3,6 +3,7 @@
    schools:
       - "Summerhill School"
       - "Lycée International de Londres Winston Churchill"
+      - "Mulberry School for Girls"
 
 -  flag: bm
    country:  Bermuda
@@ -39,6 +40,8 @@
    schools:
    - "Shanghai Foreign Language School Affiliated To SISU"
    - "Shanghai No.1 Experimental School Affiliated To SISU"
+   - "Huaying Education Group"
+   - "The Experimental High School Attached To BNU"
 
 -  flag: cl
    country:  Chile
@@ -52,8 +55,7 @@
    - "Galileo Gymnasium"
    - "Alfred-Wegener-Schule"
    - "Phorms Berlin"
-   - "Nelson Mandela School"
-   - "Altes Kurfuerstliches Gymnasium"
+   - "Altes Kurfürstliches Gymnasium Bensheim"
 
 -  flag: fi
    country:  Finland
@@ -64,49 +66,23 @@
    country:  Puerto Rico
    schools:
    - "Nuestra Escuela"
-   - "Caribbean School"
    
--  flag: scopia
-   country:  Former Yugoslav Republic of Macedonia
-   schools:
-   - "NOVA International Schools"
-
 -  flag: us
    country:  USA
    schools:
    - "French American International School"
    - "RAZI School"
-   - "Richard Montgomery High School"
-   - "Newark Collegiate Academy"
-   - "Brooklyn Friends School"
    - "Community School of Naples"
-   - "Hunter College High School"
-   - "The Bronx High School of Science"
+   - "Fusion High School"
+   - "Weston High School"
+   - "Cardinal Spellman High School"
+   - "Project Roussou"
 
--  flag: 'no'
-   country:  Norway
-   schools:
-   - "Blindern Videregående Skole"
-   
--  flag: 'gn'
-   country:  Ghana
-   schools:
-   - "St. Augustine's College"
-
--  flag: 'ng'
-   country:  Nigeria
-   schools:
-   - "Greensprings School"
-   
 -  flag: 'au'
    country:  Australia
    schools:
    - "Northern Beaches Christian School"
-
--  flag: 'cr'
-   country:  Costa Rica
-   schools:
-   - "Pan-American School"
+   - "Pimlico State HIgh School"
 
 -  flag: 'ch'
    country:  Switzerland
@@ -121,9 +97,21 @@
 -  flag: 'mx'
    country:  Mexico
    schools:
-   - "Colegio Carol Baur and Fundacion Cultural Baur"
+   - "Colegio Carol Baur Internacional"
    
 -  flag: 'ar'
    country:  Argetina
    schools:
    - "Instituto Lange Ley"
+   
+-  flag: 'il'
+   country:  Israel
+   schools:
+   - "Eastern Mediterranean International School"
+   
+-  flag: 'kr'
+   country:  Republic of Korea
+   schools:
+   - "Dongil High School"
+   - "Moonil High School"
+   - "Doksan High School"
