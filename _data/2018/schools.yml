@@ -17,7 +17,7 @@
    country: Spain
    schools:
    - "Frederic Mistral Tècnic Eulàlia"
-   - "Sek Alborán International School"
+   - "SEK Alborán International School"
 
 -  flag: be
    country: Belgium
@@ -29,7 +29,6 @@
    country: Japan
    schools:
    - "Yokohama Shogyo High School"
-   - "Futaba Future High School"
    - "Yokohama Higashi High School"
    - "Haguro High School"
    - "Joho High School"
@@ -89,11 +88,6 @@
    schools:
    - "Institut Florimont"
 
--  flag: 'fr'
-   country:  France
-   schools:
-   - "Lycée du Coudon"
-   
 -  flag: 'mx'
    country:  Mexico
    schools:
