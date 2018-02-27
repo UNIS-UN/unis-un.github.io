@@ -1,8 +1,13 @@
 ---
 layout: default
 ---
+<!--
+      
 <div class="col_2">
     <div class="left">
+
+--->
+<div>
       <h1> WELCOME TO UNIS-UN </h1>
       <p> Welcome to the UNIS-UN Website! Our goal as an organization is to provide an educationally and intellectually enriching experience for our peers from around the world while promoting globalism and cross-cultural exchange.</p>
 
@@ -15,9 +20,12 @@ layout: default
       {% endif %}
     </div>
 
-
+<!--
     <div class="right cur_conf">
-    {%if site.show_tweets %}     
+   --->
+        
+<div>
+        {%if site.show_tweets %}     
       
       <h2>TWEETS</h2>
 
@@ -25,9 +33,14 @@ layout: default
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
     {% else %}
+    
+</div> 
+
      <h1>2018 CONFERENCE LIVESTREAM (active during the conference)</h1>
       <a href="/confs/{{ site.conf_year }}">
-        <iframe frameborder="0" width="480" height="270" scrolling="no" src="<div style='display: block; position: relative; max-width: 480px; max-height: 270px'><div style='padding-top: 56.25%;'><iframe style='width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;' src=//www.un.org/webcast/1362235914001/B1J3DDQJf_default/index.html?videoId=5689257354001' allowfullscreen webkitallowfullscreen mozallowfullscreen frameborder='0'></iframe></div></div>></iframe>
+       <iframe frameborder="0" width="480" height="270" scrolling="no" src="<div style='display: block; position: relative; max-width: 480px; max-height: 270px'>
+      <div style='padding-top: 56.25%;'>
+      <iframe style='width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;' src=//www.un.org/webcast/1362235914001/B1J3DDQJf_default/index.html?videoId=5689257354001' allowfullscreen webkitallowfullscreen mozallowfullscreen frameborder='0'></iframe></div></div></iframe>
       </a>
       <div class ="homeupcoming">
       <a href="/confs/{{ site.conf_year }}">
