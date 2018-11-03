@@ -50,7 +50,7 @@ h2, h3, h4, h5, h6 {
 
 .contactlinks a {
   text-decoration: none;
-  color: #67AEE2;
+  color: #4F82AD;
 }
 
 .contactlinks a:hover {
@@ -60,7 +60,7 @@ h2, h3, h4, h5, h6 {
 
 .contctlinks a:visited {
   text-decoration: none;
-  color: #67AEE2;
+  color: #4F82AD;
 }
 
 a {
@@ -87,7 +87,7 @@ hr {
     Header
   ======================= */
 header{
-  background-color: #67AEE2;
+  background-color: #4F82AD;
   max-width: 100%;
   overflow: hidden;
 }
@@ -474,7 +474,7 @@ tr {
 footer {
   color: #ffffff;
   margin-top: 50px;
-  background-color: #67AEE2;
+  background-color: #4F82AD;
   max-width: 100%;
   overflow: hidden;
 }
