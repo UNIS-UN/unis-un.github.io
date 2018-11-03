@@ -96,7 +96,7 @@ header{
   background: url(/img/UNIS_UN_logo.jpg);
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position-x: center;
   height: 300px;
  }
 
