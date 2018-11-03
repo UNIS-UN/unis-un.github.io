@@ -94,9 +94,9 @@ header{
 
 .header {
   background: url(/img/UNIS_UN_logo.jpg);
+  background-position-x: center;
   background-size: contain;
   background-repeat: no-repeat;
-  background-position-x: center;
   height: 300px;
  }
 
