@@ -17,6 +17,7 @@ live: true
 facebook_username: unisunconf
 insta_username: unisun_nyc
 snapchat_username: unisun_nyc
+twitter_username: unis_un
 
 # Build settings
 markdown: kramdown
