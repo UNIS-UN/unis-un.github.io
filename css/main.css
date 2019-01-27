@@ -307,6 +307,7 @@ header .wrap {
   max-width: 600px;
   width: 100%;
   min-width: 200px;
+  vertical-align:middle;
 }
 .col_2 .left{
   float: left
@@ -402,7 +403,6 @@ header .wrap {
 }
 
 .schedule .left {
-  vertical-align:middle;
   background: #FFF;
 }
 
