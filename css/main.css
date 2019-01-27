@@ -439,7 +439,7 @@ td {
 }
 
 table {
-  border-spacing: 35;
+  border-spacing: 0;
 }
 #visiting_schools tr:nth-child(even) {
   background: rgba(204,204,204,0.2);
