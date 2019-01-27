@@ -39,7 +39,121 @@ layout: default
     </div>
     <div style="clear:both;"></div>
 </div>
-<div>
+{% if site.show_sched %}
+<hr>
+
+<div class="schedule col_2">
+  <h1>SCHEDULE</h1>
+  <!-- Edit below -->
+  <div class="left">
+    <h2>Thursday 2<sup>nd</sup> </h2>
+    <table style="padding-left:15px;">
+      <tr>
+        <td>  8:50</td><td> 9:00 </td><td> <b>Security Announcement </b> </td>  
+      </tr>
+      <tr>
+        <td>  9:00</td><td> 9:05 </td><td> <b>Co-Chair Welcome </b><br> <i> Sean Waxman-Lenz, Sarah Blau </i></td>
+      </tr>
+      <tr>
+        <td>  9:05</td><td> 9:30 </td><td> <b>Opening Remarks </b></td>
+      </tr>
+      <tr>
+        <td>  9:30</td><td> 10:10 </td><td> <b> William Milberg </b></td>
+      </tr>
+      <tr>
+        <td>  10:10</td><td> 10:30 </td><td> <b>Q&A Session</b></td>
+      </tr>
+      <tr>
+        <td>  10:30</td><td> 11:10 </td><td> <b> Victor Flores</b></td>
+      </tr>
+      <tr>
+        <td>  11:10</td><td> 11:30 </td><td> <b> Q&A Session </b> </td>
+      </tr>
+      <tr>
+        <td>  11:30</td><td> 1:00 </td><td> Lunch </td>
+      </tr>
+       <tr>
+        <td>  1:00</td><td> 1:10 </td><td> <b>Security Announcement </b> </td>  
+      </tr>
+      <tr>
+        <td>  1:10</td><td> 2:10 </td><td><b>Debate 1</b> <br><i>Economic migrants and political refugees should be treated equally when applying for immigration.</i></td>
+      </tr>
+      <tr>
+        <td>  2:10</td><td> 2:50 </td><td> <b>Angy Rivera</b> </td>
+      </tr>
+       <tr>
+        <td>  2:50</td><td> 3:10 </td><td>  <b>Q&A Session</b></td>
+      </tr>
+      <tr>
+        <td>  3:10</td><td> 3:30  </td><td> <b> Closing Remarks </b></td>
+      </tr>
+    </table>
+  </div>
+ 
+  <!-- Day 2 -->
+  <div class="right">
+    <h2> Friday 3<sup>rd</sup> </h2>
+        <table style="padding-bottom:150px;">
+      <tr>
+        <td> 8:50</td><td> 9:00 </td><td> <b>Security Announcement </b> </td>  
+      </tr>
+      <tr>
+        <td> 9:00</td><td> 9:15 </td><td> <b>Opening Remarks </b></td>
+      </tr>
+      <tr>
+        <td> 9:15</td><td> 9:55 </td><td> <b>Ben Fox Rubin </b></td>
+      </tr>
+      <tr>
+        <td> 9:55</td><td> 10:15 </td><td> <b> Q&A Session </b> </td>
+      </tr>
+      <tr>
+        <td> 10:15</td><td> 10:55 </td><td> <b>Selcuk Sirin </b></td>
+      </tr>
+      <tr>
+        <td> 10:55</td><td> 11:15 </td><td> <b> Q&A Session </b> </td>
+      </tr>
+      <tr>
+        <td> 11:15</td><td> 11:30 </td><td><b> Short Movie</b> </td>
+      </tr>
+       <tr>
+        <td> 11:30</td><td> 1:00 </td><td> Lunch </td>  
+      </tr>
+      <tr>
+        <td> 1:00</td><td> 1:10 </td><td>  <b> Security Announcement </b> </td>
+      </tr>
+        <tr>
+        <td> 1:10</td><td> 2:20 </td><td><b> Debate 2 </b><br><i>Refugees can be denied entry if accepting them poses a security risk.</i> </td>
+      </tr>
+      <tr>
+        <td> 2:20</td><td> 3:00 </td><td><b> Gregory Maniatis</b></td>
+      </tr>
+      <tr>
+        <td> 3:00</td><td> 3:20 </td><td><b>Q&A Session </b></td>
+      </tr>
+      <tr>
+        <td> 3:20</td><td> 3:30  </td><td> <b> Closing Remarks </b></td>
+      </tr>
+    </table>
+  </div>
+  <!-- Stop editing -->
+</div>
+
+
+{% endif %}
+
+{% if site.live %}
+<hr>
+
+ <!-- Live Streem Section -->
+<!--<div id="steam_sec">
+ 
+<div class="stream">
+<iframe frameborder="0" width="480" height="270" scrolling="no" src="https://link.brightcove.com/services/player/bcpid1722935254001/?bctid=5189180889001&autoStart=false&secureConnections=true&width=480&height=270" ></iframe>
+  </div>
+  <hr>
+</div>-->
+
+{% endif %}
 
 <h1><!--UPCOMING--> 2019 CONFERENCE</h1>
     <p> This year’s conference topic will be Ripple Effect: The Water Crisis. Water is central to the wellbeing of people and the planet. The availability of safe water and adequate sanitation is changing worldwide. Without effective management of our water resources, we risk intensifying disputes between communities and increasing tensions among nations. The 2019 UNIS-UN conference will examine the role of water in relation to sustainability and geopolitics. We will investigate how growing demands, climate change, and increasing pollution are affecting water security. In addition, we will consider the political and economic implications of mass migration due to flooding and drought, innovative solutions in cleaning up the ocean, and the consequences of ice melts in the Arctic on trade and travel. </p>  
@@ -75,7 +189,7 @@ layout: default
   <!-- Edit below -->
   <div class="left">
     <h2>Thursday 2<sup>nd</sup> </h2>
-    <table style="padding-left:250px;">
+    <table style="padding-left:15px;">
       <tr>
         <td>  8:50</td><td> 9:00 </td><td> <b>Security Announcement </b> </td>  
       </tr>
