@@ -419,6 +419,10 @@ header .wrap {
   margin: 0;
 }
 
+.blurb {
+  text-align: left;
+}
+
 .unfcu {
   width: 100px;
   display: block;
