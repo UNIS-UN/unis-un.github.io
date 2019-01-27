@@ -402,6 +402,7 @@ header .wrap {
 }
 
 .schedule .left {
+  vertical-align:middle;
   background: #FFF;
 }
 
