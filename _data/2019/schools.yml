@@ -1,1 +1,117 @@
+-  flag: uk
+   country: United Kingdom
+   schools:
+      - "Summerhill School"
+      - "Lycée International de Londres Winston Churchill"
+      - "Mulberry School for Girls"
+      - "Teddington School"
 
+-  flag: bm
+   country:  Bermuda
+   schools:
+   - "Saltus Grammar School"
+   - "Warwick Academy"
+   - "Bermuda High School"
+
+-  flag: es
+   country: Spain
+   schools:
+   - "Frederic Mistral Tècnic Eulàlia"
+   - "SEK Alborán International School"
+
+-  flag: be
+   country: Belgium
+   schools:
+   - "European School Mol"
+   - "European School of Brussels 3"
+   - "European School Brussel 1"
+
+-  flag: jp
+   country: Japan
+   schools:
+   - "Yokohama Shogyo High School"
+   - "Yokohama Municipal Higashi High School"
+   - "Haguro High School"
+   - "Kagoshima Joho High School"
+   - "Yamate Gakuin High School"
+   - "Futaba Future School"
+
+-  flag: cn
+   country: China
+   schools:
+   - "Shanghai Foreign Language School Affiliated To SISU"
+   - "Shanghai No.1 Experimental School Affiliated To SISU"
+
+-  flag: cl
+   country:  Chile
+   schools:
+   - "Santiago College"
+
+-  flag: de
+   country:  Germany
+   schools:
+   - "Berlin Brandenburg International School"
+   - "Alfred-Wegener-Schule"
+   - "Altes Kurfürstliches Gymnasium Bensheim"
+
+-  flag: fi
+   country:  Finland
+   schools:
+   - "Helsingin Suomalainen Yhteiskoulu"
+
+-  flag: pr
+   country:  Puerto Rico
+   schools:
+   - "Nuestra Escuela"
+   - "Caribbean School"
+   
+-  flag: us
+   country:  USA
+   schools:
+   - "French American International School"
+   - "Richard Montgomery High School"
+   - "Community School of Naples"
+   - "Fox Lane High School"
+   - "Charles O. Dickerson High School"
+
+-  flag: 'au'
+   country:  Australia
+   schools:
+   - "Northern Beaches Christian School"
+
+-  flag: 'ch'
+   country:  Switzerland
+   schools:
+   - "Institut Florimont"
+
+-  flag: 'mx'
+   country:  Mexico
+   schools:
+   - "Colegio Carol Baur Internacional"
+   
+-  flag: 'ar'
+   country:  Argetina
+   schools:
+   - "Instituto Lange Ley"
+   
+   
+-  flag: 'kr'
+   country:  Republic of Korea
+   schools:
+   - "Dong-il High School"
+   - "Moon-il High School"
+   
+-  flag: 'no'
+   country:  Norway
+   schools:
+   - "Oslo Katedralskole"
+   
+-  flag: 'ca'
+   country:  Canada
+   schools:
+   - "Upper York School"
+   
+-  flag: 'nl'
+   country:  Netherlands
+   schools:
+   - "Hervormd Lyceum Zuid"
