@@ -111,6 +111,11 @@
    country:  Netherlands
    schools:
    - "Hervormd Lyceum Zuid"
+   
+-  flag: 'mx'
+   country:  Mexico
+   schools:
+   - "Colegio Carol Baur Internacional"
 
 
 
